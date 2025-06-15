@@ -54,17 +54,13 @@ max_drive_time_padstow = float(col1.text_input('Drive to Padstow', '45'))
 max_drive_time_kogarah = float(col2.text_input('Drive to Kogarah', '45'))
 max_drive_time_tkmaxx = float(col2.text_input('Drive to TKMaxx', '45'))
 
-tab1, tab2 = st.tabs(['Map', 'Data'])
+gdf_filtered = gdf[
+    (gdf['decile_public_max'] >= min_school_decile) &
+    (gdf['train_to_finity'] <= max_train_time) &
+    (gdf['drive_to_padstow'] <= max_drive_time_padstow) &
+    (gdf['drive_to_kogarah'] <= max_drive_time_kogarah) &
+    (gdf['drive_to_tkmaxx'] <= max_drive_time_tkmaxx)
+]
+m = generate_map(gdf_filtered, df, df_rent, date_range=date_range, home_type=home_type, beds=beds, baths=baths, parking=parking)
 
-with tab1:   
-    if st.sidebar.button('Apply'):
-        gdf_filtered = gdf[
-            (gdf['decile_public_max'] >= min_school_decile) &
-            (gdf['train_to_finity'] <= max_train_time) &
-            (gdf['drive_to_padstow'] <= max_drive_time_padstow) &
-            (gdf['drive_to_kogarah'] <= max_drive_time_kogarah) &
-            (gdf['drive_to_tkmaxx'] <= max_drive_time_tkmaxx)
-        ]
-        m = generate_map(gdf_filtered, df, df_rent, date_range=date_range, home_type=home_type, beds=beds, baths=baths, parking=parking)
-
-        folium_static(m, height=1100, width=2100)
+folium_static(m, height=1100, width=2100)
