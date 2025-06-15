@@ -1,0 +1,594 @@
+,poi,address,street_number,street_name,suburb,postcode,latitude,longitude,public_school_percentile
+0,Allawah Train Station,"Hurstville NSW 2220, Australia",,,Hurstville,2220,-33.9696853,151.1145196,
+1,Arncliffe Train Station,"Arncliffe NSW 2205, Australia",,,Arncliffe,2205,-33.9362525,151.1472815,
+2,Artarmon Train Station,"Artarmon NSW 2064, Australia",,,Artarmon,2064,-33.80883110000001,151.1851236,
+3,Ashfield Train Station,"Ashfield NSW 2131, Australia",,,Ashfield,2131,-33.88763,151.1259,
+4,Asquith Train Station,"Asquith NSW 2077, Australia",,,Asquith,2077,-33.6886887,151.1081727,
+5,Auburn Train Station,"Auburn NSW 2144, Australia",,,Auburn,2144,-33.84918889999999,151.0328916,
+6,Banksia Train Station,"Banksia NSW 2216, Australia",,,Banksia,2216,-33.9453067,151.1404131,
+7,Bankstown Train Station,"Bankstown NSW 2200, Australia",,,Bankstown,2200,-33.91789199999999,151.034653,
+8,Bardwell Park Train Station,"Bardwell Park NSW 2207, Australia",,,Bardwell Park,2207,-33.93157240000001,151.1248947,
+9,Beecroft Train Station,"Beecroft NSW 2119, Australia",,,Beecroft,2119,-33.7496721,151.0664082,
+10,Belmore Train Station,"Belmore NSW 2192, Australia",,,Belmore,2192,-33.9171947,151.0887354,
+11,Berala Train Station,"Berala NSW 2141, Australia",,,Berala,2141,-33.871834,151.03244,
+12,Berowra Train Station,"Berowra NSW 2081, Australia",,,Berowra,2081,-33.6235453,151.1531536,
+13,Beverly Hills Train Station,"Beverly Hills NSW 2209, Australia",,,Beverly Hills,2209,-33.9490183,151.0812222,
+14,Bexley North Train Station,"Bexley North NSW 2207, Australia",,,Bexley North,2207,-33.937538,151.1135235,
+15,Birrong Train Station,"Birrong NSW 2143, Australia",,,Birrong,2143,-33.8932932,151.0240292,
+16,Blacktown Train Station,"Blacktown NSW 2148, Australia",,,Blacktown,2148,-33.7685906,150.907424,
+17,Bondi Junction Train Station,"95/97 Grafton St, Bondi Junction NSW 2022, Australia",97,Grafton Street,Bondi Junction,2022,-33.891293,151.2487102,
+18,Burwood Train Station,"Burwood NSW 2134, Australia",,,Burwood,2134,-33.8772471,151.1043119,
+19,Cabramatta Train Station,"Cabramatta NSW 2166, Australia",,,Cabramatta,2166,-33.894623,150.939056,
+20,Campbelltown Train Station,"Campbelltown NSW 2560, Australia",,,Campbelltown,2560,-34.06402829999999,150.8141357,
+21,Campsie Train Station,"Campsie NSW 2194, Australia",,,Campsie,2194,-33.9104,151.103546,
+22,Canley Vale Train Station,"Canley Vale NSW 2166, Australia",,,Canley Vale,2166,-33.887131,150.943634,
+23,Canterbury Train Station,"Canterbury NSW 2193, Australia",,,Canterbury,2193,-33.91189179999999,151.118573,
+24,Caringbah Train Station,"Caringbah NSW 2229, Australia",,,Caringbah,2229,-34.04158879999999,151.1225683,
+25,Carlton Train Station,"Carlton NSW 2218, Australia",,,Carlton,2218,-33.968266,151.124008,
+26,Carramar Train Station,"Carramar NSW 2163, Australia",,,Carramar,2163,-33.8843143,150.9614886,
+27,Casula Train Station,"Casula NSW 2170, Australia",,,Casula,2170,-33.949908,150.9120312,
+28,Central Train Station,"Eddy Ave, Haymarket NSW 2000, Australia",,Eddy Avenue,Haymarket,2000,-33.8826375,151.2064722,
+29,Chatswood Train Station,"Chatswood NSW 2067, Australia",,,Chatswood,2067,-33.7967905,151.1806876,
+30,Cheltenham Train Station,"Cheltenham NSW 2119, Australia",,,Cheltenham,2119,-33.7557491,151.0785565,
+31,Chester Hill Train Station,"Chester Hill Rd, Chester Hill NSW 2162, Australia",,Chester Hill Road,Chester Hill,2162,-33.8835918,150.9998601,
+32,Circular Quay Train Station,"Circular Quay Railway Station, Alfred St, Sydney NSW 2000, Australia",,Alfred Street,Sydney,2000,-33.8611772,151.2106885,
+33,Clarendon Train Station,"Clarendon NSW 2756, Australia",,,Clarendon,2756,-33.6085113,150.7879184,
+34,Clyde Train Station,"Granville NSW 2142, Australia",,,Granville,2142,-33.8358494,151.0168574,
+35,Como Train Station,"Como NSW 2226, Australia",,,Como,2226,-34.004265,151.067993,
+36,Concord West Train Station,"Concord West NSW 2138, Australia",,,Concord West,2138,-33.8484989,151.085587,
+37,Cronulla Train Station,"Cronulla NSW 2230, Australia",,,Cronulla,2230,-34.0557489,151.1515177,
+38,Croydon Train Station,"Croydon NSW 2132, Australia",,,Croydon,2132,-33.8832473,151.1151841,
+39,Denistone Train Station,"Denistone NSW 2114, Australia",,,Denistone,2114,-33.79955469999999,151.0867853,
+40,Domestic Airport Train Station,"Mascot NSW 2020, Australia",,,Mascot,2020,-33.9336041,151.1811262,
+41,Doonside Train Station,"Doonside NSW 2767, Australia",,,Doonside,2767,-33.763779,150.869003,
+42,Dulwich Hill Train Station,"Dulwich Hill NSW 2203, Australia",,,Dulwich Hill,2203,-33.9111047,151.141175,
+43,East Hills Train Station,"East Hills NSW 2213, Australia",,,East Hills,2213,-33.9617849,150.9846528,
+44,East Richmond Train Station,"Richmond NSW 2753, Australia",,,Richmond,2753,-33.6017984,150.7591345,
+45,Eastwood Train Station,"Eastwood NSW 2122, Australia",,,Eastwood,2122,-33.7901037,151.0819767,
+46,Edgecliff Train Station,"Edgecliff NSW 2027, Australia",,,Edgecliff,2027,-33.879318,151.23642,
+47,Edmondson Park Train Station,"Edmondson Train Station Rd, Edmondson Park NSW 2174, Australia",,,Edmondson Park,2174,-33.9692834,150.85866,
+48,Emu Plains Train Station,"Emu Plains NSW 2750, Australia",,,Emu Plains,2750,-33.74573420000001,150.6718826,
+49,Engadine Train Station,"Engadine NSW 2233, Australia",,,Engadine,2233,-34.0676142,151.0147694,
+50,Epping Train Station,"Beecroft Rd, Epping NSW 2121, Australia",,Beecroft Road,Epping,2121,-33.77271959999999,151.0820495,
+51,Erskineville Train Station,"Erskineville NSW 2043, Australia",,,Erskineville,2043,-33.9000757,151.1855598,
+52,Fairfield Train Station,"Fairfield NSW 2165, Australia",,,Fairfield,2165,-33.8723854,150.9568218,
+53,Flemington Train Station,"Homebush West NSW 2140, Australia",,,Homebush West,2140,-33.8649524,151.0701872,
+54,Glenfield Train Station,"Railway Parade, Glenfield NSW 2167, Australia",,Railway Parade,Glenfield,2167,-33.9722348,150.8930947,
+55,Gordon Train Station,"Gordon NSW 2072, Australia",,,Gordon,2072,-33.7557663,151.1543614,
+56,Granville Train Station,"Granville NSW 2142, Australia",,,Granville,2142,-33.8327711,151.0119323,
+57,Green Square Train Station,"Alexandria NSW 2015, Australia",,,Alexandria,2015,-33.9062418,151.2024545,
+58,Guildford Train Station,"Guildford NSW 2161, Australia",,,Guildford,2161,-33.85422490000001,150.984419,
+59,Gymea Train Station,"Gymea NSW 2227, Australia",,,Gymea,2227,-34.0348841,151.0854573,
+60,Harris Park Train Station,"Station St W, Harris Park NSW 2150, Australia",,Station Street West,Harris Park,2150,-33.823315,151.007599,
+61,Heathcote Train Station,"Heathcote NSW 2233, Australia",,,Heathcote,2233,-34.0879598,151.0080987,
+62,Helensburgh Train Station,"Helensburgh NSW 2508, Australia",,,Helensburgh,2508,-34.1769231,150.9948512,
+63,Holsworthy Train Station,"Holsworthy NSW 2173, Australia",,,Holsworthy,2173,-33.96316580000001,150.9566821,
+64,Homebush Train Station,"Homebush NSW 2140, Australia",,,Homebush,2140,-33.8668843,151.0859661,
+65,Hornsby Train Station,"Hornsby NSW 2077, Australia",,,Hornsby,2077,-33.703522,151.09848,
+66,Hurlstone Park Train Station,"Hurlstone Park NSW 2193, Australia",,,Hurlstone Park,2193,-33.9101766,151.1324875,
+67,Hurstville Train Station,"Ormonde Parade, Hurstville NSW 2220, Australia",,Ormonde Parade,Hurstville,2220,-33.9676514,151.1023441,
+68,Ingleburn Train Station,"Ingleburn NSW 2565, Australia",,,Ingleburn,2565,-33.9975793,150.8640626,
+69,International Airport Train Station,"Mascot NSW 2020, Australia",,,Mascot,2020,-33.9349888,151.1658066,
+70,Jannali Train Station,"Jannali NSW 2226, Australia",,,Jannali,2226,-34.01589740000001,151.0645506,
+71,Killara Train Station,"Killara NSW 2071, Australia",,,Killara,2071,-33.76547599999999,151.161697,
+72,Kings Cross Train Station,"Darlinghurst Rd, Potts Point NSW 2011, Australia",,Darlinghurst Road,Potts Point,2011,-33.874268,151.222611,
+73,Kingsgrove Train Station,"Kingsgrove NSW 2208, Australia",,,Kingsgrove,2208,-33.9406036,151.1005328,
+74,Kingswood Train Station,"Kingswood NSW 2747, Australia",,,Kingswood,2747,-33.75838349999999,150.7204858,
+75,Kirrawee Train Station,"Kirrawee NSW 2232, Australia",,,Kirrawee,2232,-34.0349682,151.0715823,
+76,Kogarah Train Station,"1 Railway Parade, Kogarah NSW 2217, Australia",1,Railway Parade,Kogarah,2217,-33.962728,151.1324438,
+77,Lakemba Train Station,"Lakemba NSW 2195, Australia",,,Lakemba,2195,-33.9201175,151.0758525,
+78,Leightonfield Train Station,"Villawood NSW 2163, Australia",,,Villawood,2163,-33.8814266,150.985237,
+79,Leppington Train Station,"2179, 187 Rickard Rd, Leppington NSW 2179, Australia",187,Rickard Rd,Leppington,2179,-33.9543966,150.8080174,
+80,Leumeah Train Station,"Leumeah NSW 2560, Australia",,,Leumeah,2560,-34.0507788,150.8306041,
+81,Lewisham Train Station,"4 Victoria St, Lewisham NSW 2049, Australia",4,Victoria Street,Lewisham,2049,-33.8932518,151.147421,
+82,Lidcombe Train Station,"Railway Parade, Lidcombe NSW 2141, Australia",,Railway Parade,Lidcombe,2141,-33.8636195,151.0447322,
+83,Lindfield Train Station,"Lindfield NSW 2070, Australia",,,Lindfield,2070,-33.7756649,151.1691041,
+84,Liverpool Train Station,"Liverpool NSW 2170, Australia",,,Liverpool,2170,-33.9243088,150.9272096,
+85,Loftus Train Station,"Loftus NSW 2232, Australia",,,Loftus,2232,-34.04510459999999,151.0511986,
+86,Macarthur Train Station,"Menangle Rd, Campbelltown NSW 2560, Australia",,Menangle Road,Campbelltown,2560,-34.07195,150.7972521,
+87,Macdonaldtown Train Station,"Eveleigh NSW 2015, Australia",,,Eveleigh,2015,-33.896767,151.18634,
+88,Macquarie Fields Train Station,"Macquarie Fields NSW 2564, Australia",,,Macquarie Fields,2564,-33.9847434,150.8790718,
+89,Marayong Train Station,"Marayong NSW 2148, Australia",,,Marayong,2148,-33.746309,150.9001946,
+90,Marrickville Train Station,"Marrickville NSW 2204, Australia",,,Marrickville,2204,-33.9138005,151.1531604,
+91,Martin Place Train Station,"Sydney NSW 2000, Australia",,,Sydney,2000,-33.867964,151.2117024,
+92,Mascot Train Station,"Mascot NSW 2020, Australia",,,Mascot,2020,-33.9233037,151.1874205,
+93,Meadowbank Train Station,"Meadowbank NSW 2114, Australia",,,Meadowbank,2114,-33.8159902,151.0901473,
+94,Merrylands Train Station,"Merrylands NSW 2160, Australia",,,Merrylands,2160,-33.8365039,150.9925513,
+95,Milsons Point Train Station,"Milsons Point NSW 2061, Australia",,,Milsons Point,2061,-33.8458583,151.2118248,
+96,Minto Train Station,"Minto NSW 2566, Australia",,,Minto,2566,-34.027309,150.8424663,
+97,Miranda Train Station,"Miranda NSW 2228, Australia",,,Miranda,2228,-34.0363092,151.1025585,
+98,Mortdale Train Station,"Mortdale NSW 2223, Australia",,,Mortdale,2223,-33.9706593,151.0812475,
+99,Mount Colah Train Station,"Mount Colah NSW 2079, Australia",,,Mount Colah,2079,-33.6714627,151.1149343,
+100,Mount Druitt Train Station,"Mount Druitt NSW 2770, Australia",,,Mount Druitt,2770,-33.769581,150.820129,
+101,Mount Kuring-gai Train Station,"Mount Kuring-gai NSW 2080, Australia",,,Mount Kuring-gai,2080,-33.65316469999999,151.1368566,
+102,Mulgrave Train Station,"Mulgrave NSW 2756, Australia",,,Mulgrave,2756,-33.6266347,150.8304822,
+103,Museum Train Station,"Sydney NSW 2000, Australia",,,Sydney,2000,-33.8765397,151.2098093,
+104,Narwee Train Station,"Narwee NSW 2209, Australia",,,Narwee,2209,-33.9475813,151.0702694,
+105,Newtown Train Station,"330 King St, Newtown NSW 2042, Australia",330,King Street,Newtown,2042,-33.8979962,151.1796353,
+106,Normanhurst Train Station,"Normanhurst NSW 2076, Australia",,,Normanhurst,2076,-33.7208698,151.097172,
+107,North Strathfield Train Station,"North Strathfield NSW 2137, Australia",,,North Strathfield,2137,-33.8589529,151.0881083,
+108,North Sydney Train Station,"Blue St, North Sydney NSW 2060, Australia",,Blue Street,North Sydney,2060,-33.841209,151.207413,
+109,Oatley Train Station,"Oatley NSW 2223, Australia",,,Oatley,2223,-33.9807522,151.0790521,
+110,Olympic Park Train Station,"Sydney Olympic Park NSW 2127, Australia",,,Sydney Olympic Park,2127,-33.84652069999999,151.0695205,
+111,Padstow Train Station,"Padstow NSW 2211, Australia",,,Padstow,2211,-33.9518961,151.0323912,
+112,Panania Train Station,"Panania NSW 2213, Australia",,,Panania,2213,-33.9543247,150.997845,
+113,Parramatta Train Station,"Parramatta NSW 2150, Australia",,,Parramatta,2150,-33.81724199999999,151.004883,
+114,Pendle Hill Train Station,"Pendle Hill NSW 2145, Australia",,,Pendle Hill,2145,-33.8013195,150.9563844,
+115,Pennant Hills Train Station,"Pennant Hills NSW 2120, Australia",,,Pennant Hills,2120,-33.7381109,151.0724737,
+116,Penrith Train Station,"Penrith NSW 2750, Australia",,,Penrith,2750,-33.750101,150.6958417,
+117,Penshurst Train Station,"Penshurst NSW 2222, Australia",,,Penshurst,2222,-33.9661564,151.0891512,
+118,Petersham Train Station,"Petersham NSW 2049, Australia",,,Petersham,2049,-33.89391909999999,151.1551268,
+119,Punchbowl Train Station,"Punchbowl NSW 2196, Australia",,,Punchbowl,2196,-33.9253492,151.0555308,
+120,Pymble Train Station,"Pymble NSW 2073, Australia",,,Pymble,2073,-33.7446757,151.1419637,
+121,Quakers Hill Train Station,"Quakers Hill NSW 2763, Australia",,,Quakers Hill,2763,-33.7274173,150.886186,
+122,Redfern Train Station,"Eveleigh NSW 2015, Australia",,,Eveleigh,2015,-33.8916327,151.198771,
+123,Regents Park Train Station,"Regents Park NSW 2143, Australia",,,Regents Park,2143,-33.88298799999999,151.024185,
+124,Revesby Train Station,"Revesby NSW 2212, Australia",,,Revesby,2212,-33.9524486,151.0148924,
+125,Rhodes Train Station,"Rhodes NSW 2138, Australia",,,Rhodes,2138,-33.8305508,151.0870825,
+126,Richmond Train Station,"Richmond NSW 2753, Australia",,,Richmond,2753,-33.5988159,150.7525297,
+127,Riverstone Train Station,"Riverstone NSW 2765, Australia",,,Riverstone,2765,-33.6790691,150.8604102,
+128,Riverwood Train Station,"Riverwood NSW 2210, Australia",,,Riverwood,2210,-33.95147849999999,151.0524899,
+129,Rockdale Train Station,"Rockdale NSW 2216, Australia",,,Rockdale,2216,-33.9522623,151.1367137,
+130,Rooty Hill Train Station,"Rooty Hill NSW 2766, Australia",,,Rooty Hill,2766,-33.77156100000001,150.8451541,
+131,Roseville Train Station,"Roseville NSW 2069, Australia",,,Roseville,2069,-33.78418600000001,151.1772762,
+132,Schofields Train Station,"Schofields NSW 2762, Australia",,,Schofields,2762,-33.7046401,150.8738676,
+133,Sefton Train Station,"Sefton NSW 2162, Australia",,,Sefton,2162,-33.8852346,151.0114608,
+134,Seven Hills Train Station,"The Centre, Terminus Rd, Seven Hills NSW 2147, Australia",,Terminus Road,Seven Hills,2147,-33.7743033,150.9361487,
+135,St James Train Station,"Sydney NSW 2000, Australia",,,Sydney,2000,-33.87067640000001,151.2104527,
+136,St Leonards Train Station,"St Leonards NSW 2065, Australia",,,St Leonards,2065,-33.82224699999999,151.194107,
+137,St Marys Train Station,"North St Marys NSW 2760, Australia",,,North Saint Marys,2760,-33.762096,150.775146,
+138,St Peters Train Station,"St Peters NSW 2044, Australia",,,Saint Peters,2044,-33.90749609999999,151.180357,
+139,Stanmore Train Station,"Trafalgar St, Stanmore NSW 2048, Australia",,Trafalgar Street,Stanmore,2048,-33.8946699,151.163952,
+140,Strathfield Train Station,"Strathfield NSW 2135, Australia",,,Strathfield,2135,-33.87222289999999,151.094264,
+141,Summer Hill Train Station,"Summer Hill NSW 2130, Australia",,,Summer Hill,2130,-33.8904436,151.1387263,
+142,Sutherland Train Station,"Sutherland NSW 2232, Australia",,,Sutherland,2232,-34.0315158,151.0573585,
+143,Sydenham Train Station,"Sydenham NSW 2044, Australia",,,Sydenham,2044,-33.9147769,151.1660516,
+144,Tempe Train Station,"Tempe NSW 2204, Australia",,,Tempe,2204,-33.9237692,151.1565526,
+145,Thornleigh Train Station,"Thornleigh NSW 2120, Australia",,,Thornleigh,2120,-33.7318189,151.0783812,
+146,Toongabbie Train Station,"Toongabbie NSW 2146, Australia",,,Toongabbie,2146,-33.787292,150.951538,
+147,Town Hall Train Station,"George St, Sydney NSW 2000, Australia",,George Street,Sydney,2000,-33.87320539999999,151.2071181,
+148,Turramurra Train Station,"Rohini St, Turramurra NSW 2074, Australia",,Rohini Street,Turramurra,2074,-33.732324,151.1283718,
+149,Turrella Train Station,"Turrella NSW 2205, Australia",,,Turrella,2205,-33.9299019,151.139968,
+150,Villawood Train Station,"Villawood NSW 2163, Australia",,,Villawood,2163,-33.88088700000001,150.976053,
+151,Vineyard Train Station,"Richards NSW 2765, Australia",,,Richards,2765,-33.6504115,150.8511407,
+152,Wahroonga Train Station,"Wahroonga NSW 2076, Australia",,,Wahroonga,2076,-33.7174831,151.1169687,
+153,Waitara Train Station,"Waitara NSW 2077, Australia",,,Waitara,2077,-33.7100629,151.1044132,
+154,Warrawee Train Station,"Warradale SA 5046, Australia",,,Warradale,5046,-35.011347,138.533608,
+155,Warwick Farm Train Station,"Railway Pathway, Warwick Farm NSW 2170, Australia",,Railway Pathway,Warwick Farm,2170,-33.9130751,150.9352109,
+156,Waterfall Train Station,"Waterfall NSW 2233, Australia",,,Waterfall,2233,-34.134502,150.9944924,
+157,Waverton Train Station,"Waverton NSW 2060, Australia",,,Waverton,2060,-33.83760099999999,151.197388,
+158,Wentworthville Train Station,"Wentworthville NSW 2145, Australia",,,Wentworthville,2145,-33.807114,150.972733,
+159,Werrington Train Station,"Werrington NSW 2747, Australia",,,Werrington,2747,-33.7592392,150.7576771,
+160,West Ryde Train Station,"West Ryde NSW 2114, Australia",,,West Ryde,2114,-33.8073346,151.0901785,
+161,Westmead Train Station,"Westmead NSW 2145, Australia",,,Westmead,2145,-33.8083956,150.9879175,
+162,Wiley Park Train Station,"Wiley Park NSW 2195, Australia",,,Wiley Park,2195,-33.9226901,151.06808,
+163,Windsor Train Station,"Windsor NSW 2756, Australia",,,Windsor,2756,-33.6137621,150.8112687,
+164,Wolli Creek Train Station,"Brodie Spark Dr, Wolli Creek NSW 2205, Australia",,Brodie Spark Drive,Wolli Creek,2205,-33.9286108,151.1540195,
+165,Wollstonecraft Train Station,"Wollstonecraft NSW 2065, Australia",,,Wollstonecraft,2065,-33.8319307,151.1918461,
+166,Woolooware Train Station,"Woolooware NSW 2230, Australia",,,Woolooware,2230,-34.047718,151.143997,
+167,Wynyard Train Station,"Sydney NSW 2000, Australia",,,Sydney,2000,-33.8657055,151.2061744,
+168,Yagoona Train Station,"Yagoona NSW 2199, Australia",,,Yagoona,2199,-33.9069723,151.0244857,
+169,Yennora Train Station,"Yennora NSW 2161, Australia",,,Yennora,2161,-33.8647428,150.9707794,
+170,Woollahra Public School,"Forth St, Woollahra NSW 2025, Australia",,Forth Street,Woollahra,2025,-33.886567,151.2412598,100.0
+171,Beecroft Public School,"90-98 Beecroft Rd, Beecroft NSW 2119, Australia",90-98,Beecroft Road,Beecroft,2119,-33.75216630000001,151.0651659,100.0
+172,Matthew Pearce Public School,"4G Astoria Park Rd, Baulkham Hills NSW 2153, Australia",4G,Astoria Park Road,Baulkham Hills,2153,-33.7583711,150.9634567,100.0
+173,Artarmon Public School,"1 Abbott Rd, Artarmon NSW 2064, Australia",1,Abbott Road,Artarmon,2064,-33.8114011,151.1858946,100.0
+174,St Ives North Public School,"87 Memorial Ave, St. Ives NSW 2075, Australia",87,Memorial Avenue,Saint Ives,2075,-33.7186734,151.1635642,100.0
+175,Hornsby North Public School,"52 Ida St, Hornsby NSW 2077, Australia",52,Ida Street,Hornsby,2077,-33.6833506,151.0982756,100.0
+176,North Rocks Public School,"359 N Rocks Rd, North Rocks NSW 2151, Australia",359,North Rocks Road,North Rocks,2151,-33.7685086,151.0255725,99.0
+177,Carlingford West Public School,"Felton Rd, Carlingford NSW 2118, Australia",,Felton Road,Carlingford,2118,-33.7820239,151.0379301,99.0
+178,Dural Public School,"622 Old Northern Rd, Dural NSW 2158, Australia",622,Old Northern Road,Dural,2158,-33.6868325,151.0271671,99.0
+179,Waitara Public School,"Myra St, Wahroonga NSW 2076, Australia",,Myra Street,Wahroonga,2076,-33.7082024,151.1106302,99.0
+180,Excelsior Public School,"Rondelay Dr, Castle Hill NSW 2154, Australia",,Rondelay Drive,Castle Hill,2154,-33.7405015,150.9904138,99.0
+181,Summer Hill Public School,"Moonbie St, Summer Hill NSW 2130, Australia",,Moonbie Street,Summer Hill,2130,-33.89579,151.1361567,99.0
+182,Hurstville Public School,"Forest Rd, Hurstville NSW 2220, Australia",,Forest Road,Hurstville,2220,-33.9647871,151.1111195,99.0
+183,Oakhill Drive Public School,"1-5 Oakhill Dr, Castle Hill NSW 2154, Australia",1-5,Oakhill Drive,Castle Hill,2154,-33.721815,151.0232229,99.0
+184,Epping Public School,"Norfolk Rd, Epping NSW 2121, Australia",,Norfolk Road,Epping,2121,-33.7709538,151.0876805,99.0
+185,Sutherland Public School,"38/54 Eton St, Sutherland NSW 2232, Australia",54,Eton Street,Sutherland,2232,-34.03308669999999,151.0587889,99.0
+186,Epping West Public School,"96 Carlingford Rd, Epping NSW 2121, Australia",96,Carlingford Road,Epping,2121,-33.772808,151.0681516,99.0
+187,Balmain Public School,"1 Eaton St, Balmain NSW 2041, Australia",1,Eaton Street,Balmain,2041,-33.8591216,151.1833319,99.0
+188,Neutral Bay Public School,"175 Ben Boyd Rd, Neutral Bay NSW 2089, Australia",175,Ben Boyd Road,Neutral Bay,2089,-33.83214659999999,151.2199561,98.0
+189,Eastwood Heights Public School,"9A Lincoln St, Eastwood NSW 2122, Australia",9A,Lincoln Street,Eastwood,2122,-33.7813778,151.0957449,98.0
+190,Eastwood Public School,"Rowe St, Eastwood NSW 2122, Australia",,Rowe Street,Eastwood,2122,-33.7925285,151.0778888,98.0
+191,Cherrybrook Public School,"131 New Line Rd, Cherrybrook NSW 2126, Australia",131,New Line Road,Cherrybrook,2126,-33.73145949999999,151.0432965,98.0
+192,Lindfield East Public School,"90 Tryon Rd, East Lindfield NSW 2070, Australia",90,Tryon Road,East Lindfield,2070,-33.7676755,151.1845989,98.0
+193,Murray Farm Public School,"18 Tracey Ave, Carlingford NSW 2118, Australia",18,Tracey Avenue,Carlingford,2118,-33.7663244,151.039591,98.0
+194,Killara Public School,"1 Ridgeland Ave, Killara NSW 2071, Australia",1,Ridgeland Avenue,Killara,2071,-33.7659154,151.1486014,98.0
+195,Ironbark Ridge Public School,"1 Ironbark Ridge Rd, Rouse Hill NSW 2155, Australia",1,Ironbark Ridge Road,Rouse Hill,2155,-33.688216,150.9326715,98.0
+196,John Purchase Public School,"Purchase Rd, Cherrybrook NSW 2126, Australia",,Purchase Road,Cherrybrook,2126,-33.718909,151.0395618,98.0
+197,Roseville Public School,"19A Archbold Rd, Roseville NSW 2069, Australia",19A,Archbold Road,Roseville,2069,-33.78236690000001,151.1883543,98.0
+198,Epping Heights Public School,"128 Kent St, Epping NSW 2121, Australia",128,Kent Street,Epping,2121,-33.76267,151.073981,98.0
+199,Picnic Point Public School,"12 Prince St, Picnic Point NSW 2213, Australia",12,Prince Street,Picnic Point,2213,-33.96917210000001,151.0100912,97.0
+200,Turramurra Public School,"164/174 Kissing Point Rd, Turramurra NSW 2074, Australia",174,Kissing Point Road,Turramurra,2074,-33.7440501,151.1133762,97.0
+201,Warrawee Public School,"1486 Pacific Hwy, Warrawee NSW 2074, Australia",1486,Pacific Highway,Warrawee,2074,-33.7295182,151.1211656,97.0
+202,Pennant Hills Public School,"Ramsay Rd & Weemala Road, Pennant Hills NSW 2120, Australia",,,Pennant Hills,2120,-33.73585310000001,151.0680956,97.0
+203,Kent Road Public School,"Kent Rd, Eastwood NSW 2122, Australia",,Kent Road,Eastwood,2122,-33.7870284,151.1080873,97.0
+204,Oatley Public School,"51 Letitia St, Oatley NSW 2223, Australia",51,Letitia Street,Oatley,2223,-33.9846578,151.0805963,97.0
+205,West Ryde Public School,"6 Endeavour St, West Ryde NSW 2114, Australia",6,Endeavour Street,West Ryde,2114,-33.80826819999999,151.0851327,97.0
+206,Earlwood Public School,"396 Homer St, Earlwood NSW 2206, Australia",396,Homer Street,Earlwood,2206,-33.9282696,151.1228174,97.0
+207,Holsworthy Public School,"36 Infantry Parade, Holsworthy NSW 2173, Australia",36,Infantry Parade,Holsworthy,2173,-33.955975,150.9547119,97.0
+208,West Pymble Public School,"10 Apollo Ave, West Pymble NSW 2073, Australia",10,Apollo Avenue,West Pymble,2073,-33.7639434,151.1243224,96.0
+209,Rose Bay Public School,"Albemarle Ave, Rose Bay NSW 2029, Australia",,Albemarle Avenue,Rose Bay,2029,-33.8729763,151.2711445,96.0
+210,Kellyville Public School,"35A Windsor Rd, Kellyville NSW 2155, Australia",35A,Windsor Road,Kellyville,2155,-33.71108869999999,150.9578027,96.0
+211,Kambora Public School,"37 Woolrych Cres, Davidson NSW 2085, Australia",37,Woolrych Crescent,Davidson,2085,-33.73995310000001,151.1945813,96.0
+212,Glenhaven Public School,"76 Glenhaven Rd, Glenhaven NSW 2156, Australia",76,Glenhaven Road,Glenhaven,2156,-33.6997755,151.001974,96.0
+213,Lane Cove Public School,"145-153 Longueville Rd, Lane Cove NSW 2066, Australia",145-153,Longueville Road,Lane Cove,2066,-33.8164739,151.1693502,96.0
+214,North Ryde Public School,"154 Coxs Rd, North Ryde NSW 2113, Australia",154,Coxs Road,North Ryde,2113,-33.7945522,151.1206583,96.0
+215,Roselea Public School,"549 N Rocks Rd, Carlingford NSW 2118, Australia",549,North Rocks Road,Carlingford,2118,-33.7651811,151.0526917,96.0
+216,Thornleigh West Public School,"Giblett Ave, Thornleigh NSW 2120, Australia",,Giblett Avenue,Thornleigh,2120,-33.72442840000001,151.0719431,95.0
+217,Wahroonga Public School,"71 Burns Rd, Wahroonga NSW 2076, Australia",71,Burns Road,Wahroonga,2076,-33.7156041,151.1283931,95.0
+218,Gordon West Public School,"146 Ryde Rd, Pymble NSW 2073, Australia",146,Ryde Road,Pymble,2073,-33.76035299999999,151.1388946,95.0
+219,Pymble Public School,"Crown Rd, Pymble NSW 2073, Australia",,Crown Road,Pymble,2073,-33.7317209,151.1412244,95.0
+220,Mosman Public School,"27 Belmont Rd, Mosman NSW 2088, Australia",27,Belmont Road,Mosman,2088,-33.8280416,151.2411925,95.0
+221,Carlingford Public School,"5 Rickard St, Carlingford NSW 2118, Australia",5,Rickard Street,Carlingford,2118,-33.7796939,151.0551078,95.0
+222,Lugarno Public School,"38 Old Forest Rd, Lugarno NSW 2210, Australia",38,Old Forest Road,Lugarno,2210,-33.9851049,151.0454138,95.0
+223,Randwick Public School,"78 Avoca St, Randwick NSW 2031, Australia",78,Avoca Street,Randwick,2031,-33.9102057,151.2426034,95.0
+224,Beaumont Road Public School,"17 Beaumont Rd, Killara NSW 2071, Australia",17,Beaumont Road,Killara,2071,-33.7749134,151.1460034,95.0
+225,Bellevue Hill Public School,"163A Victoria Rd, Bellevue Hill NSW 2023, Australia",163A,Victoria Road,Bellevue Hill,2023,-33.88700659999999,151.2594588,95.0
+226,Wilkins Public School,"31 Park Rd, Marrickville NSW 2204, Australia",31,Park Road,Marrickville,2204,-33.9014982,151.1558005,94.0
+227,Caringbah North Public School,"125 Cawarra Rd, Caringbah NSW 2229, Australia",125,Cawarra Road,Caringbah,2229,-34.0364099,151.1239356,94.0
+228,Anzac Park Public School,"2 Anzac Ave, Cammeray NSW 2062, Australia",2,Anzac Avenue,Cammeray,2062,-33.8265745,151.2107068,94.0
+229,Darlinghurst Public School,"Womerah Ave, Potts Point NSW 2011, Australia",,Womerah Avenue,Potts Point,2011,-33.8785078,151.2234204,94.0
+230,Annandale North Public School,"206 Johnston St, Annandale NSW 2038, Australia",206,Johnston Street,Annandale,2038,-33.8781224,151.1719679,94.0
+231,Oatley West Public School,"Oatley Park Ave, Oatley NSW 2223, Australia",,Oatley Park Avenue,Oatley,2223,-33.9793057,151.0656485,94.0
+232,Epping North Public School,"Boundary Rd, North Epping NSW 2121, Australia",,Boundary Road,North Epping,2121,-33.7567865,151.0951662,94.0
+233,Mowbray Public School,"635 Mowbray Rd, Lane Cove North NSW 2066, Australia",635,Mowbray Road,Lane Cove North,2066,-33.804238,151.1552718,94.0
+234,Castle Cove Public School,"Holly St, Castle Cove NSW 2069, Australia",,Holly Street,Castle Cove,2069,-33.7827191,151.2019005,93.0
+235,Lindfield Public School,"218 Pacific Hwy, Lindfield NSW 2070, Australia",218,Pacific Highway,Lindfield,2070,-33.7809803,151.1692411,93.0
+236,Haberfield Public School,"Bland St, Haberfield NSW 2045, Australia",,Bland Street,Haberfield,2045,-33.87905649999999,151.1345498,93.0
+237,Denistone East Public School,"Eastwood NSW 2122, Australia",,,Eastwood,2122,-33.793304,151.0968031,93.0
+238,Crestwood Public School,"38 Peel Rd, Baulkham Hills NSW 2153, Australia",38,Peel Road,Baulkham Hills,2153,-33.7490925,150.9720365,93.0
+239,North Sydney Public School,"Bay Rd, Waverton NSW 2060, Australia",,Bay Road,Waverton,2060,-33.8349305,151.2037771,93.0
+240,Cammeray Public School,"Palmer St, Cammeray NSW 2062, Australia",,Palmer Street,Cammeray,2062,-33.82107060000001,151.2118875,93.0
+241,Castle Hill Public School,"5 Les Shore Pl, Castle Hill NSW 2154, Australia",5,Les Shore Place,Castle Hill,2154,-33.7278736,151.0046479,93.0
+242,Illawong Public School,"276 Fowler Rd, Illawong NSW 2234, Australia",276,Fowler Road,Illawong,2234,-33.9984092,151.0423889,93.0
+243,Bronte Public School,"13 Hewlett St, Bronte NSW 2024, Australia",13,Hewlett Street,Bronte,2024,-33.9005404,151.2622363,93.0
+244,Seaforth Public School,"37 Kempbridge Ave, Seaforth NSW 2092, Australia",37,Kempbridge Avenue,Seaforth,2092,-33.79382729999999,151.2510429,93.0
+245,St Johns Park Public School,"Sandringham St, St Johns Park NSW 2176, Australia",,Sandringham Street,Saint Johns Park,2176,-33.8872659,150.8992973,92.0
+246,Normanhurst Public School,"2 Normanhurst Rd, Normanhurst NSW 2076, Australia",2,Normanhurst Road,Normanhurst,2076,-33.7237602,151.0974799,92.0
+247,Middle Harbour Public School,"8 Hale Rd, Mosman NSW 2088, Australia",8,Hale Road,Mosman,2088,-33.8234008,151.2329343,92.0
+248,Leichhardt Public School,"Marion St, Leichhardt NSW 2040, Australia",,Marion Street,Leichhardt,2040,-33.8839558,151.1577201,92.0
+249,Normanhurst West Public School,"4/10 Dartford Rd, Thornleigh NSW 2120, Australia",10,Dartford Road,Thornleigh,2120,-33.72160459999999,151.0881063,92.0
+250,Greystanes Public School,"781 Merrylands Rd, Greystanes NSW 2145, Australia",781,Merrylands Road,Greystanes,2145,-33.8280989,150.9412748,92.0
+251,Dulwich Hill Public School,"Kintore St, Dulwich Hill NSW 2203, Australia",,Kintore Street,Dulwich Hill,2203,-33.9060586,151.1402595,92.0
+252,Nicholson Street Public School,"23 Nicholson St, Balmain East NSW 2041, Australia",23,Nicholson Street,Balmain East,2041,-33.8558366,151.1927722,92.0
+253,Drummoyne Public School,"Rawson Ave, Drummoyne NSW 2047, Australia",,Rawson Avenue,Drummoyne,2047,-33.85575910000001,151.1525803,92.0
+254,Mount Colah Public School,"19 Telopea St, Mount Colah NSW 2079, Australia",19,Telopea Street,Mount Colah,2079,-33.6724295,151.1157368,92.0
+255,Killarney Heights Public School,"10 Tralee Ave, Killarney Heights NSW 2087, Australia",10,Tralee Avenue,Killarney Heights,2087,-33.7756222,151.2160315,91.0
+256,Hunters Hill Public School,"17 Alexandra St, Hunters Hill NSW 2110, Australia",17,Alexandra Street,Hunters Hill,2110,-33.8352012,151.1513327,91.0
+257,Hornsby South Public School,"57-63 Clarke Rd, Hornsby NSW 2077, Australia",57-63,Clarke Road,Hornsby,2077,-33.71318019999999,151.0952149,91.0
+258,Samuel Gilbert Public School,"Ridgecrop Dr, Castle Hill NSW 2154, Australia",,Ridgecrop Drive,Castle Hill,2154,-33.7138175,150.9920906,91.0
+259,St Ives Public School,"60/70 Horace St, St. Ives NSW 2075, Australia",70,Horace Street,Saint Ives,2075,-33.73821340000001,151.1658821,91.0
+260,Bilgola Plateau Public School,"148A Plateau Rd, Bilgola Plateau NSW 2107, Australia",148A,Plateau Road,Bilgola Plateau,2107,-33.6439752,151.3133899,91.0
+261,Croydon Public School,"39 Young St, Croydon NSW 2132, Australia",39,Young Street,Croydon,2132,-33.8798667,151.1149566,91.0
+262,Westmead Public School,"Hawkesbury Rd, Westmead NSW 2145, Australia",,Hawkesbury Road,Westmead,2145,-33.8105159,150.9865175,91.0
+263,Burwood Public School,"1 Conder St, Burwood NSW 2134, Australia",1,Conder Street,Burwood,2134,-33.8769473,151.0997346,91.0
+264,Willoughby Public School,"Oakville Rd, Willoughby NSW 2068, Australia",,Oakville Road,Willoughby,2068,-33.8019645,151.2010858,91.0
+265,Concord Public School,"Burwood Rd & Stanley Street, 66 Burwood Rd, Concord NSW 2137, Australia",66,Burwood Road,Concord,2137,-33.8634438,151.1070982,91.0
+266,Petersham Public School,"25 Hunter St, Lewisham NSW 2049, Australia",25,Hunter Street,Lewisham,2049,-33.8956356,151.1501273,90.0
+267,Greenwich Public School,"32 Kingslangley Rd, Greenwich NSW 2065, Australia",32,Kingslangley Road,Greenwich,2065,-33.8259455,151.1829262,90.0
+268,Meadowbank Public School,"6 Rhodes St, Meadowbank NSW 2114, Australia",6,Rhodes Street,Meadowbank,2114,-33.8129103,151.092037,90.0
+269,Jasper Road Public School,"Jasper Rd, Baulkham Hills NSW 2153, Australia",,Jasper Road,Baulkham Hills,2153,-33.7619907,150.9818134,90.0
+270,Newington Public School,"Newington Blvd, Newington NSW 2127, Australia",,Newington Boulevard,Newington,2127,-33.8411369,151.0553106,90.0
+271,Strathfield North Public School,"251 Concord Rd, North Strathfield NSW 2137, Australia",251,Concord Road,North Strathfield,2137,-33.8549838,151.0920395,90.0
+272,Rainbow Street Public School,"90 Rainbow St, Randwick NSW 2031, Australia",90,Rainbow Street,Randwick,2031,-33.9250535,151.2370221,90.0
+273,Parramatta Public School,"177 Macquarie St, Parramatta NSW 2150, Australia",177,Macquarie Street,Parramatta,2150,-33.8167991,151.0085144,90.0
+274,Seven Hills North Public School,"45 Beethoven St, Seven Hills NSW 2147, Australia",45,Beethoven Street,Seven Hills,2147,-33.7606134,150.9551899,90.0
+275,Wideview Public School,"37 Wideview Rd, Berowra Heights NSW 2082, Australia",37,Wideview Road,Berowra Heights,2082,-33.6085639,151.1415984,90.0
+276,Hornsby Heights Public School,"8/20 Somerville Rd, Hornsby Heights NSW 2077, Australia",20,Somerville Road,Hornsby Heights,2077,-33.6699866,151.0967547,90.0
+277,Annangrove Public School,"185 Annangrove Rd, Annangrove NSW 2156, Australia",185,Annangrove Road,Annangrove,2156,-33.6688201,150.9522044,89.0
+278,Parramatta East Public School,"Brabyn St, Parramatta NSW 2150, Australia",,Brabyn Street,Parramatta,2150,-33.8060801,151.0178904,89.0
+279,Burnside Public School,"1 Masons Dr, North Parramatta NSW 2151, Australia",1,Masons Drive,North Parramatta,2151,-33.7931139,151.0182026,89.0
+280,Erskineville Public School,"Swanson St, Erskineville NSW 2043, Australia",,Swanson Street,Erskineville,2043,-33.90050420000001,151.1862334,89.0
+281,Putney Public School,"193 Morrison Rd, Putney NSW 2112, Australia",193,Morrison Road,Putney,2112,-33.8244355,151.1109807,89.0
+282,Heathcote East Public School,"Mimosa St, Heathcote NSW 2233, Australia",,Mimosa Street,Heathcote,2233,-34.0831209,151.0199888,89.0
+283,Wentworthville Public School,"70-100 Fullagar Rd, Wentworthville NSW 2145, Australia",70-100,Fullagar Road,Wentworthville,2145,-33.8139775,150.9685926,89.0
+284,Baulkham Hills North Public School,"2 Girralong Ave, Baulkham Hills NSW 2153, Australia",2,Girralong Avenue,Baulkham Hills,2153,-33.7518614,150.9996059,89.0
+285,St Ives Park Public School,"St Ives Park Primary School, Acron Rd, St. Ives NSW 2075, Australia",,Acron Road,Saint Ives,2075,-33.7237167,151.1785558,89.0
+286,Manly West Public School,"96 Griffiths St, Balgowlah NSW 2093, Australia",96,Griffiths Street,Balgowlah,2093,-33.7921635,151.2687632,88.0
+287,West Pennant Hills Public School,"1 Church St, West Pennant Hills NSW 2125, Australia",1,Church Street,West Pennant Hills,2125,-33.7458211,151.0501517,88.0
+288,Seven Hills Public School,"Johnson Ave, Seven Hills NSW 2147, Australia",,Johnson Avenue,Seven Hills,2147,-33.7632973,150.9435008,88.0
+289,Darcy Road Public School,"98A Darcy Rd, Wentworthville NSW 2145, Australia",98A,Darcy Road,Wentworthville,2145,-33.8019377,150.9660832,88.0
+290,Newbridge Heights Public School,"Cnr Lewin Crescent and Magree Crescent, Chipping Norton NSW 2170, Australia",,,Chipping Norton,2170,-33.9257987,150.9520894,88.0
+291,Northbridge Public School,"296a Sailors Bay Rd, Northbridge NSW 2063, Australia",296a,Sailors Bay Road,Northbridge,2063,-33.81238210000001,151.2188196,88.0
+292,Terrey Hills Public School,"Cooyong Road, Terrey Hills NSW 2084, Australia",,,Terrey Hills,2084,-33.6853767,151.2236214,88.0
+293,Brookvale Public School,"2-8 Old Pittwater Rd, Brookvale NSW 2100, Australia",2-8,Old Pittwater Road,Brookvale,2100,-33.761677,151.2706282,88.0
+294,Kareela Public School,"53 Freya St, Kareela NSW 2232, Australia",53,Freya Street,Kareela,2232,-34.01371830000001,151.0827922,88.0
+295,Turramurra North Public School,"237 Bobbin Head Rd, North Turramurra NSW 2074, Australia",237,Bobbin Head Road,North Turramurra,2074,-33.71481000000001,151.1477986,88.0
+296,Lane Cove West Public School,"10 Avalon Ave, Lane Cove West NSW 2066, Australia",10,Avalon Avenue,Lane Cove West,2066,-33.8100148,151.1517402,87.0
+297,Waverley Public School,"155 Bronte Rd, Waverley NSW 2024, Australia",155,Bronte Road,Waverley,2024,-33.8984861,151.2517501,87.0
+298,Glenmore Road Public School,"269 Glenmore Rd, Paddington NSW 2021, Australia",269,Glenmore Road,Paddington,2021,-33.8817963,151.2306817,87.0
+299,Harbord Public School,"Wyadra Ave & Oliver St, Freshwater NSW 2096, Australia",,,Freshwater,2096,-33.7724744,151.2859065,87.0
+300,Mortdale Public School,"Coleborne Ave, Mortdale NSW 2223, Australia",,Coleborne Avenue,Mortdale,2223,-33.97219499999999,151.0811707,87.0
+301,Abbotsford Public School,"350 Great N Rd, Abbotsford NSW 2046, Australia",350,Great North Road,Abbotsford,2046,-33.85328959999999,151.1302666,87.0
+302,Truscott Street Public School,"Truscott St, North Ryde NSW 2113, Australia",,Truscott Street,North Ryde,2113,-33.7942349,151.1298705,87.0
+303,Orange Grove Public School,"Perry St, Lilyfield NSW 2040, Australia",,Perry Street,Lilyfield,2040,-33.8723508,151.1587728,87.0
+304,Harrington Street Public School,"Unit 13/25 Harrington St, Cabramatta West NSW 2166, Australia",25,Harrington Street,Cabramatta West,2166,-33.8885937,150.9096685,87.0
+305,Paddington Public School,"399-435 Oxford St, Paddington NSW 2021, Australia",399-435,Oxford Street,Paddington,2021,-33.8876665,151.2299825,86.0
+306,South Coogee Public School,"Moverly Rd, South Coogee NSW 2034, Australia",,Moverly Road,South Coogee,2034,-33.9332927,151.2540848,86.0
+307,Penshurst Public School,"18 Arcadia St, Penshurst NSW 2222, Australia",18,Arcadia Street,Penshurst,2222,-33.9622431,151.0874629,86.0
+308,Winston Hills Public School,"2 Hillcrest Ave, Winston Hills NSW 2153, Australia",2,Hillcrest Avenue,Winston Hills,2153,-33.7734118,150.9808874,86.0
+309,Forest Lodge Public School,"231-233 Bridge Rd, Forest Lodge NSW 2037, Australia",231-233,Bridge Road,Forest Lodge,2037,-33.8821476,151.1815787,86.0
+310,Allambie Heights Public School,"165 Allambie Rd, Allambie Heights NSW 2100, Australia",165,Allambie Road,Allambie Heights,2100,-33.7655514,151.2495058,86.0
+311,Dobroyd Point Public School,"Waratah St, Haberfield NSW 2045, Australia",,Waratah Street,Haberfield,2045,-33.874698,151.1403919,86.0
+312,Marie Bashir Public School,"159 Albert Rd, Strathfield NSW 2135, Australia",159,Albert Road,Strathfield,2135,-33.8748547,151.078964,86.0
+313,Stanmore Public School,"100 Cambridge St, Stanmore NSW 2048, Australia",100,Cambridge Street,Stanmore,2048,-33.8953726,151.1645768,86.0
+314,Kogarah Public School,"24B Gladstone St, Kogarah NSW 2217, Australia",24B,Gladstone Street,Kogarah,2217,-33.96198659999999,151.1362378,86.0
+315,Grays Point Public School,"109 Angle Rd, Grays Point NSW 2232, Australia",109,Angle Road,Grays Point,2232,-34.0586516,151.072193,85.0
+316,Camdenville Public School,"Laura St, Newtown NSW 2042, Australia",,Laura Street,Newtown,2042,-33.9060086,151.1754536,85.0
+317,Glenorie Public School,"1731 Old Northern Rd, Glenorie NSW 2157, Australia",1731,Old Northern Road,Glenorie,2157,-33.5996802,151.0075518,85.0
+318,Strathfield South Public School,"457 Liverpool Rd, Strathfield NSW 2135, Australia",457,Liverpool Road,Strathfield,2135,-33.8915838,151.0843602,85.0
+319,Rozelle Public School,"663 Darling St, Rozelle NSW 2039, Australia",663,Darling Street,Rozelle,2039,-33.8629688,151.1702211,85.0
+320,Beaumont Hills Public School,"10/30 The Pkwy, Beaumont Hills NSW 2155, Australia",30,The Parkway,Beaumont Hills,2155,-33.69773060000001,150.9453531,84.0
+321,Peakhurst South Public School,"45A Pindari Rd, Peakhurst Heights NSW 2210, Australia",45A,Pindari Road,Peakhurst Heights,2210,-33.9725279,151.0552251,84.0
+322,Blacktown North Public School,"1 Bessemer St, Blacktown NSW 2148, Australia",1,Bessemer Street,Blacktown,2148,-33.757974,150.912774,84.0
+323,Collaroy Plateau Public School,"41 Plateau Rd, Collaroy Plateau NSW 2097, Australia",41,Plateau Road,Collaroy Plateau,2097,-33.73252989999999,151.2930853,84.0
+324,Bourke Street Public School,"590 Bourke St, Surry Hills NSW 2010, Australia",590,Bourke Street,Surry Hills,2010,-33.8904635,151.2158168,84.0
+325,Gladesville Public School,"Victoria Rd, Gladesville NSW 2111, Australia",,Victoria Road,Gladesville,2111,-33.8324782,151.1263738,84.0
+326,Asquith Public School,"3 Dudley St, Asquith NSW 2077, Australia",3,Dudley Street,Asquith,2077,-33.68610719999999,151.1123403,84.0
+327,Undercliffe Public School,"143-157 Bayview Ave, Earlwood NSW 2206, Australia",143-157,Bayview Avenue,Earlwood,2206,-33.9243744,151.1386321,84.0
+328,Kegworth Public School,"60 Tebbutt St, Leichhardt NSW 2040, Australia",60,Tebbutt Street,Leichhardt,2040,-33.886426,151.1472699,84.0
+329,Concord West Public School,"378 Concord Rd, Concord West NSW 2138, Australia",378,Concord Road,Concord West,2138,-33.839567,151.087363,84.0
+330,Brooklyn Public School,"106 Brooklyn Rd, Brooklyn NSW 2083, Australia",106,Brooklyn Road,Brooklyn,2083,-33.54821200000001,151.2152143,84.0
+331,Laguna Street Public School,"204-206 Caringbah Rd, Caringbah South NSW 2229, Australia",204-206,Caringbah Road,Caringbah South,2229,-34.046491,151.112737,83.0
+332,Clovelly Public School,"1 Arden St, Waverley NSW 2024, Australia",1,Arden Street,Waverley,2024,-33.9074314,151.2598719,83.0
+333,Rosehill Public School,"31 Virginia St, Rosehill NSW 2142, Australia",31,Virginia Street,Rosehill,2142,-33.8239101,151.018914,83.0
+334,Manly Village Public School,"Corner Darley Road and, 10 Wentworth St, Manly NSW 2095, Australia",10,Wentworth Street,Manly,2095,-33.7989208,151.2874465,83.0
+335,Sherwood Ridge Public School,"34 Rosebery Rd, Kellyville NSW 2155, Australia",34,Rosebery Road,Kellyville,2155,-33.7070129,150.9753771,83.0
+336,Georges Hall Public School,"16 Pennington Ave, Georges Hall NSW 2198, Australia",16,Pennington Avenue,Georges Hall,2198,-33.9117547,150.9923641,83.0
+337,Blacktown South Public School,"183 Flushcombe Rd, Blacktown NSW 2148, Australia",183,Flushcombe Road,Blacktown,2148,-33.7808378,150.9064567,83.0
+338,Double Bay Public School,"William St, Double Bay NSW 2028, Australia",,William Street,Double Bay,2028,-33.8746199,151.2409107,82.0
+339,Vaucluse Public School,"28-34 Cambridge Ave, Vaucluse NSW 2030, Australia",28-34,Cambridge Avenue,Vaucluse,2030,-33.8507379,151.2813558,82.0
+340,Bangor Public School,"130 Menai Rd, Bangor NSW 2234, Australia",130,Menai Road,Bangor,2234,-34.019549,151.0291062,82.0
+341,Bondi Public School,"5 Wellington St, Bondi NSW 2026, Australia",5,Wellington Street,Bondi,2026,-33.8926836,151.2647021,82.0
+342,Matraville Public School,"310 Bunnerong Rd, Hillsdale NSW 2036, Australia",310,Bunnerong Road,Hillsdale,2036,-33.9550747,151.2294378,82.0
+343,Blacktown West Public School,"Lancaster St, Blacktown NSW 2148, Australia",,Lancaster Street,Blacktown,2148,-33.7704419,150.8927967,82.0
+344,Banksmeadow Public School,"Trevelyan St & Wiggins St, Botany NSW 2019, Australia",,,Botany,2019,-33.95338640000001,151.2072277,82.0
+345,Mona Vale Public School,"Waratah St, Mona Vale NSW 2103, Australia",,Waratah Street,Mona Vale,2103,-33.67635419999999,151.3009201,82.0
+346,Boronia Park Public School,"113 Pittwater Rd, Hunters Hill NSW 2110, Australia",113,Pittwater Road,Hunters Hill,2110,-33.8214846,151.1354286,82.0
+347,Kings Langley Public School,"66 Isaac Smith Parade, Kings Langley NSW 2147, Australia",66,Isaac Smith Parade,Kings Langley,2147,-33.7455088,150.9244244,81.0
+348,Bald Face Public School,"84 Stuart St, Blakehurst NSW 2221, Australia",84,Stuart Street,Blakehurst,2221,-33.9966574,151.1068707,81.0
+349,Bexley North Public School,"116 Kingsland Rd N, Bexley North NSW 2207, Australia",116,Kingsland Road North,Bexley North,2207,-33.9411935,151.1198599,81.0
+350,Beauty Point Public School,"17 Medusa St, Mosman NSW 2088, Australia",17,Medusa Street,Mosman,2088,-33.81254169999999,151.2426408,81.0
+351,Forestville Public School,"7 Melwood Ave, Forestville NSW 2087, Australia",7,Melwood Avenue,Forestville,2087,-33.7615558,151.2127874,81.0
+352,Wakehurst Public School,"8 Glen St, Belrose NSW 2085, Australia",8,Glen Street,Belrose,2085,-33.7388269,151.2178992,81.0
+353,Homebush Public School,"Rochester St, Homebush NSW 2140, Australia",,Rochester Street,Homebush,2140,-33.8673289,151.085103,81.0
+354,Mortlake Public School,"Brays Rd, Concord NSW 2137, Australia",,Brays Road,Concord,2137,-33.8489164,151.1039503,81.0
+355,Avalon Public School,"11 Old Barrenjoey Rd, Avalon Beach NSW 2107, Australia",11,Old Barrenjoey Road,Avalon Beach,2107,-33.6391578,151.3271695,81.0
+356,Oatlands Public School,"Belmore St E, Oatlands NSW 2117, Australia",,Belmore Street East,Oatlands,2117,-33.8001025,151.0225315,81.0
+357,Kellyville Ridge Public School,"Greenwich St & Singleton Ave, Kellyville Ridge NSW 2155, Australia",,,Kellyville Ridge,2155,-33.7038841,150.9249114,80.0
+358,Loftus Public School,"103 National Ave, Loftus NSW 2232, Australia",103,National Avenue,Loftus,2232,-34.0469501,151.0489813,80.0
+359,Ferncourt Public School,"74 Premier St, Marrickville NSW 2204, Australia",74,Premier Street,Marrickville,2204,-33.92066919999999,151.1520399,80.0
+360,Burraneer Bay Public School,"163 Burraneer Bay Rd, Burraneer NSW 2230, Australia",163,Burraneer Bay Road,Burraneer,2230,-34.05122910000001,151.1331137,80.0
+361,Auburn North Public School,"100 Adderley St W, Auburn NSW 2144, Australia",100,Adderley Street West,Auburn,2144,-33.8412487,151.0381602,80.0
+362,Lilli Pilli Public School,"28-32 Lilli Pilli Point Rd, Lilli Pilli NSW 2229, Australia",28-32,Lilli Pilli Point Road,Lilli Pilli,2229,-34.06652800000001,151.1180339,80.0
+363,Connells Point Public School,"2 Riverview Ave, Connells Point NSW 2221, Australia",2,Riverview Avenue,Connells Point,2221,-33.9850718,151.1000294,79.0
+364,Gymea Bay Public School,"205A Gymea Bay Rd, Gymea Bay NSW 2227, Australia",205A,Gymea Bay Road,Gymea Bay,2227,-34.0469192,151.0830692,79.0
+365,Marton Public School,"Marton Public School, 107 Kingswood Rd, Engadine NSW 2233, Australia",107,Kingswood Road,Engadine,2233,-34.0469644,151.0244815,79.0
+366,Heathcote Public School,"30R Rosebery St, Heathcote NSW 2233, Australia",30R,Rosebery Street,Heathcote,2233,-34.0863734,151.0075218,79.0
+367,Frenchs Forest Public School,"Ann St, Frenchs Forest NSW 2086, Australia",,Ann Street,Frenchs Forest,2086,-33.7514304,151.2248038,79.0
+368,Lidcombe Public School,"Mills St, Lidcombe NSW 2141, Australia",,Mills Street,Lidcombe,2141,-33.8606905,151.047625,79.0
+369,Hurstville South Public School,"32-48 Maher St, Hurstville NSW 2220, Australia",32-48,Maher Street,Hurstville,2220,-33.9722602,151.0995299,79.0
+370,Manly Vale Public School,"77 Sunshine St, Manly Vale NSW 2093, Australia",77,Sunshine Street,Manly Vale,2093,-33.78373379999999,151.2603559,78.0
+371,Parramatta North Public School,"Albert St, North Parramatta NSW 2151, Australia",,Albert Street,North Parramatta,2151,-33.80391340000001,151.0046194,78.0
+372,Curl Curl North Public School,"Playfair Rd, Sydney NSW 2099, Australia",,Playfair Road,Sydney,2099,-33.76438959999999,151.2885284,78.0
+373,Yowie Bay Public School,"Unit 42/64 Warrah Rd, Yowie Bay NSW 2228, Australia",64,Warrah Road,Yowie Bay,2228,-34.0480934,151.1024819,78.0
+374,Beacon Hill Public School,"6 Tristram Rd, Beacon Hill NSW 2100, Australia",6,Tristram Road,Beacon Hill,2100,-33.75129820000001,151.2601721,78.0
+375,Wheeler Heights Public School,"36 Veterans Parade, Collaroy Plateau NSW 2097, Australia",36,Veterans Parade,Collaroy Plateau,2097,-33.72802300000001,151.2848672,78.0
+376,Campsie Public School,"Evaline St, Campsie NSW 2194, Australia",,Evaline Street,Campsie,2194,-33.9123515,151.1049593,78.0
+377,Crown Street Public School,"356 Crown St, Surry Hills NSW 2010, Australia",356,Crown Street,Surry Hills,2010,-33.882275,151.2150253,77.0
+378,Lewisham Public School,"49 The Boulevarde, Lewisham NSW 2049, Australia",49,The Boulevarde,Lewisham,2049,-33.89776869999999,151.1459834,77.0
+379,Metella Road Public School,"117-131 Metella Rd, Toongabbie NSW 2146, Australia",117-131,Metella Road,Toongabbie,2146,-33.79445159999999,150.9358218,77.0
+380,Miranda North Public School,"162B The Boulevarde, Miranda NSW 2228, Australia",162B,The Boulevarde,Miranda,2228,-34.0311049,151.1129375,77.0
+381,Ashbury Public School,"34-76 Trevenar St, Ashbury NSW 2193, Australia",34-76,Trevenar Street,Ashbury,2193,-33.8989477,151.1194186,77.0
+382,Alfords Point Public School,"2C Brushwood Dr, Alfords Point NSW 2234, Australia",2C,Brushwood Drive,Alfords Point,2234,-33.9921419,151.0245543,76.0
+383,Clemton Park Public School,"185 Bexley Rd, Earlwood NSW 2206, Australia",185,Bexley Road,Earlwood,2206,-33.9297242,151.1091092,76.0
+384,Newtown North Public School,"50 Carillon Ave, Newtown NSW 2042, Australia",50,Carillon Avenue,Newtown,2042,-33.89158559999999,151.185331,76.0
+385,Mimosa Public School,"1 Mimosa St, Frenchs Forest NSW 2086, Australia",1,Mimosa Street,Frenchs Forest,2086,-33.7435056,151.2049649,76.0
+386,Newtown Public School,"1 Norfolk St, Newtown NSW 2042, Australia",1,Norfolk Street,Newtown,2042,-33.89992840000001,151.1794873,76.0
+387,Enfield Public School,"Beaumaris St, Enfield NSW 2136, Australia",,Beaumaris Street,Enfield,2136,-33.8886079,151.0941344,76.0
+388,Menai Public School,"4R Hall Dr, Menai NSW 2234, Australia",4R,Hall Drive,Menai,2234,-34.012124,151.0065671,75.0
+389,Annandale Public School,"25 Johnston St, Annandale NSW 2038, Australia",25,Johnston Street,Annandale,2038,-33.8856396,151.1689826,75.0
+390,Elanora Heights Public School,"43 Elanora Rd, Elanora Heights NSW 2101, Australia",43,Elanora Road,Elanora Heights,2101,-33.70360340000001,151.2845321,75.0
+391,Ryde East Public School,"12 Twin Rd, North Ryde NSW 2112, Australia",12,Twin Road,North Ryde,2112,-33.8063967,151.1268534,75.0
+392,Revesby Public School,"71 Victoria St, Revesby NSW 2212, Australia",71,Victoria Street,Revesby,2212,-33.9445708,151.0164434,75.0
+393,Cromer Public School,"Carcoola Rd, Cromer NSW 2099, Australia",,Carcoola Road,Cromer,2099,-33.7379272,151.2741725,75.0
+394,Bondi Beach Public School,"Campbell Parade, Bondi Beach NSW 2026, Australia",,Campbell Parade,Bondi Beach,2026,-33.8885779,151.2770846,75.0
+395,Padstow Heights Public School,"Chamberlain Rd, Padstow NSW 2211, Australia",,Chamberlain Road,Padstow,2211,-33.9662023,151.0308686,75.0
+396,Ultimo Public School,"47/53 Jones St, Ultimo NSW 2007, Australia",53,Jones Street,Ultimo,2007,-33.8778891,151.1954159,75.0
+397,Peakhurst Public School,"65A Bonds Rd, Peakhurst NSW 2210, Australia",65A,Bonds Road,Peakhurst,2210,-33.9553631,151.0615767,74.0
+398,Newport Public School,"Stuart St, Newport NSW 2106, Australia",,Stuart Street,Newport,2106,-33.6601018,151.3125905,74.0
+399,Glenfield Public School,"62 Railway Parade, Glenfield NSW 2167, Australia",62,Railway Parade,Glenfield,2167,-33.9710751,150.8966139,74.0
+400,Kenthurst Public School,"111 Kenthurst Rd, Kenthurst NSW 2156, Australia",111,Kenthurst Road,Kenthurst,2156,-33.6659837,151.0049605,74.0
+401,Narrabeen North Public School,"6 Namona St, North Narrabeen NSW 2101, Australia",6,Namona Street,North Narrabeen,2101,-33.69884599999999,151.297731,74.0
+402,Gardeners Road Public School,"827 Botany Rd, Rosebery NSW 2018, Australia",827,Botany Road,Rosebery,2018,-33.9207156,151.197734,74.0
+403,Walters Road Public School,"158 Walters Rd, Blacktown NSW 2148, Australia",158,Walters Road,Blacktown,2148,-33.78470259999999,150.8918321,74.0
+404,Sutherland North Public School,"12-18 Auburn St, Sutherland NSW 2232, Australia",12-18,Auburn Street,Sutherland,2232,-34.02679140000001,151.0670699,73.0
+405,Carlton South Public School,"67 Jubilee Ave, Carlton NSW 2218, Australia",67,Jubilee Avenue,Carlton,2218,-33.9726916,151.1282439,73.0
+406,Narrabeen Lakes Public School,"1299 Pittwater Rd, Narrabeen NSW 2101, Australia",1299,Pittwater Road,Narrabeen,2101,-33.72070679999999,151.2976799,73.0
+407,Carlton Public School,"60 Cameron St, Bexley NSW 2207, Australia",60,Cameron Street,Bexley,2207,-33.9635156,151.1228454,73.0
+408,Canterbury South Public School,"20 High St, Canterbury NSW 2193, Australia",20,High Street,Canterbury,2193,-33.9178136,151.1157954,73.0
+409,Woronora River Public School,"113A Prices Cct, Woronora NSW 2232, Australia",113A,Prices Circuit,Woronora,2232,-34.0263258,151.0414956,73.0
+410,Harcourt Public School,"9/1 First Ave, Campsie NSW 2194, Australia",1,First Avenue,Campsie,2194,-33.90900360000001,151.0955287,73.0
+411,Kensington Public School,"77-79 Doncaster Ave, Kensington NSW 2033, Australia",77-79,Doncaster Avenue,Kensington,2033,-33.90961039999999,151.2249452,72.0
+412,Melrose Park Public School,"110 Wharf Rd, Ermington NSW 2114, Australia",110,Wharf Road,Ermington,2114,-33.8148581,151.0719245,72.0
+413,Rouse Hill Public School,"39-41 Clower Ave, Rouse Hill NSW 2155, Australia",39-41,Clower Avenue,Rouse Hill,2155,-33.6790511,150.9207718,72.0
+414,Tempe Public School,"Unwins Bridge Rd, St Peters NSW 2044, Australia",,,Saint Peters,2044,-33.9209683,151.1606928,72.0
+415,Wattle Grove Public School,"Cressbrook Dr, Wattle Grove NSW 2173, Australia",,Cressbrook Drive,Wattle Grove,2173,-33.95871489999999,150.9367969,72.0
+416,Vardys Road Public School,"20 Vardys Rd, Kings Langley NSW 2147, Australia",20,Vardys Road,Kings Langley,2147,-33.75780640000001,150.941925,72.0
+417,Governor Philip King Public School,"61 Allambie Rd, Edensor Park NSW 2176, Australia",61,Allambie Road,Edensor Park,2176,-33.8734311,150.8786866,72.0
+418,Engadine Public School,"1A Waratah Rd, Engadine NSW 2233, Australia",1A,Waratah Road,Engadine,2233,-34.0632803,151.0124096,71.0
+419,Toongabbie West Public School,"83 Ballandella Rd, Toongabbie NSW 2146, Australia",83,Ballandella Road,Toongabbie,2146,-33.79263,150.957258,71.0
+420,St Peters Public School,"93A Church St, St Peters NSW 2044, Australia",93A,Church Street,Saint Peters,2044,-33.91280870000001,151.1776207,71.0
+421,Oyster Bay Public School,"2-4 Phillip St, Oyster Bay NSW 2225, Australia",2-4,Phillip Street,Oyster Bay,2225,-34.0078804,151.0807087,71.0
+422,Brighton-Le-Sands Public School,"35 Crawford Rd, Brighton-Le-Sands NSW 2216, Australia",35,Crawford Road,Brighton-Le-Sands,2216,-33.962484,151.1490218,71.0
+423,Yarrawarrah Public School,"45 Old Bush Rd, Yarrawarrah NSW 2233, Australia",45,Old Bush Road,Yarrawarrah,2233,-34.0563995,151.0273081,71.0
+424,Cabramatta Public School,"Levuka St, Cabramatta NSW 2166, Australia",,Levuka Street,Cabramatta,2166,-33.8952383,150.9422795,71.0
+425,Homebush West Public School,"20 Exeter Rd, Homebush West NSW 2140, Australia",20,Exeter Road,Homebush West,2140,-33.866439,151.0666276,71.0
+426,Marrickville Public School,"116 Chapel St, Marrickville NSW 2204, Australia",116,Chapel Street,Marrickville,2204,-33.9061501,151.1623153,71.0
+427,Rockdale Public School,"6 Lord St, Rockdale NSW 2216, Australia",6,Lord Street,Rockdale,2216,-33.9519329,151.1420418,70.0
+428,Canley Vale Public School,"76 Canley Vale Rd, Canley Vale NSW 2166, Australia",76,Canley Vale Road,Canley Vale,2166,-33.8862261,150.9382043,70.0
+429,Widemere Public School,"Nemesia St, Greystanes NSW 2145, Australia",,Nemesia Street,Greystanes,2145,-33.8331762,150.9401779,70.0
+430,Coogee Public School,"Cnr of Coogee Bay Road &, Byron St, Coogee NSW 2034, Australia",,Byron Street,Coogee,2034,-33.9203963,151.2497476,70.0
+431,Berowra Public School,"2 Hillcrest Rd, Berowra NSW 2081, Australia",2,Hillcrest Road,Berowra,2081,-33.61850400000001,151.1477613,70.0
+432,Bonnet Bay Public School,"34R Tudar Rd, Bonnet Bay NSW 2226, Australia",34R,Tudar Road,Bonnet Bay,2226,-34.0129966,151.0561169,69.0
+433,Blaxcell Street Public School,"350-368 Blaxcell St, Granville NSW 2142, Australia",350-368,Blaxcell Street,Granville,2142,-33.857981,151.0057552,69.0
+434,Sans Souci Public School,"Rocky Point Rd, Sans Souci NSW 2219, Australia",,Rocky Point Road,Sans Souci,2219,-33.9945129,151.1302482,69.0
+435,Bert Oldfield Public School,"Oldfield Rd, Seven Hills NSW 2147, Australia",,Oldfield Road,Seven Hills,2147,-33.7775178,150.9246166,69.0
+436,Caringbah Public School,"Port Hacking Rd, Sydney NSW 2229, Australia",,Port Hacking Road,Sydney,2229,-34.0534656,151.1220976,69.0
+437,Padstow Park Public School,"14 Segers Ave, Padstow NSW 2211, Australia",14,Segers Avenue,Padstow,2211,-33.95405279999999,151.0311746,68.0
+438,Sylvania Heights Public School,"66 Venetia St, Sylvania NSW 2224, Australia",66,Venetia Street,Sylvania,2224,-34.0128971,151.096469,68.0
+439,Canterbury Public School,"44 Church St, Canterbury NSW 2193, Australia",44,Church Street,Canterbury,2193,-33.9083797,151.1229227,68.0
+440,Beverly Hills Public School,"King Georges Rd, Beverly Hills NSW 2209, Australia",,King Georges Road,Beverly Hills,2209,-33.9535507,151.0847047,68.0
+441,Winston Heights Public School,"51 Buckleys Rd, Winston Hills NSW 2153, Australia",51,Buckleys Road,Winston Hills,2153,-33.7750972,150.9678055,68.0
+442,Gymea North Public School,"Ruby Rd, Gymea NSW 2227, Australia",,Ruby Road,Gymea,2227,-34.0258264,151.0890054,67.0
+443,Taren Point Public School,"93 Woodlands Rd, Taren Point NSW 2229, Australia",93,Woodlands Road,Taren Point,2229,-34.0181794,151.1225009,67.0
+444,Bonnyrigg Heights Public School,"Cnr Lewis St &, Wilson Rd, Bonnyrigg Heights NSW 2177, Australia",,Wilson Road,Bonnyrigg Heights,2177,-33.88980410000001,150.8675378,67.0
+445,Botany Public School,"1076 Botany Rd, Botany NSW 2019, Australia",1076,Botany Road,Botany,2019,-33.9425348,151.1949694,67.0
+446,Daceyville Public School,"Joffre Cres, Daceyville NSW 2032, Australia",,Joffre Crescent,Daceyville,2032,-33.9289542,151.2271632,67.0
+447,Beresford Road Public School,"74 Beresford Rd, Greystanes NSW 2145, Australia",74,Beresford Road,Greystanes,2145,-33.8148461,150.9429306,66.0
+448,Como West Public School,"Wolger St, Como NSW 2226, Australia",,Wolger Street,Como,2226,-34.0049478,151.0605221,66.0
+449,Woolooware Public School,"Wills Rd North, Woolooware NSW 2230, Australia",,Wills Rd N,Woolooware,2230,-34.04516350000001,151.1459874,66.0
+450,Yates Avenue Public School,"71 Yates Ave, Dundas Valley NSW 2117, Australia",71,Yates Avenue,Dundas Valley,2117,-33.795556,151.0583783,66.0
+451,Peakhurst West Public School,"Ogilvy St, Peakhurst NSW 2210, Australia",,Ogilvy Street,Peakhurst,2210,-33.9621607,151.0495165,66.0
+452,Ramsgate Public School,"Chuter Ave, Ramsgate Beach NSW 2217, Australia",,Chuter Avenue,Ramsgate Beach,2217,-33.98141100000001,151.1436659,66.0
+453,Lynwood Park Public School,"87 Turner St, Blacktown NSW 2148, Australia",87,Turner Street,Blacktown,2148,-33.7537918,150.9260711,65.0
+454,Five Dock Public School,"13/33 Henry St, Five Dock NSW 2046, Australia",33,Henry Street,Five Dock,2046,-33.8667945,151.1273526,65.0
+455,Fort Street Public School,"Observatory Hill, Upper Fort St, Millers Point NSW 2000, Australia",,Upper Fort Street,Millers Point,2000,-33.8604211,151.2049236,65.0
+456,Panania Public School,"21A Lawler St, Panania NSW 2213, Australia",21A,Lawler Street,Panania,2213,-33.9657262,151.0005121,65.0
+457,Penshurst West Public School,"Cnr of Scott St &, Forest Rd, Mortdale NSW 2223, Australia",,Forest Road,Mortdale,2223,-33.9611361,151.0725533,64.0
+458,Darlington Public School,"Golden Grove St, Chippendale NSW 2008, Australia",,Golden Grove Street,Chippendale,2008,-33.8930788,151.1894845,64.0
+459,Maroubra Junction Public School,"Storey St, Maroubra NSW 2035, Australia",,Storey Street,Maroubra,2035,-33.9369562,151.239903,63.0
+460,Como Public School,"1/3 Genoa St, Como NSW 2226, Australia",3,Genoa Street,Como,2226,-34.0018094,151.0689288,63.0
+461,Telopea Public School,"Chestnut Ave, Telopea NSW 2117, Australia",,Chestnut Avenue,Telopea,2117,-33.7969329,151.0433741,63.0
+462,Kurnell Public School,"13-31 Dampier St, Kurnell NSW 2231, Australia",13-31,Dampier Street,Kurnell,2231,-34.010171,151.203757,62.0
+463,Blakehurst Public School,"Dewrang St, Carss Park NSW 2221, Australia",,Dewrang Street,Carss Park,2221,-33.9834476,151.1154193,62.0
+464,Padstow North Public School,"Halcyon Ave, Padstow NSW 2211, Australia",,Halcyon Avenue,Padstow,2211,-33.943762,151.0308041,62.0
+465,Cecil Hills Public School,"Leopold Pl, Cecil Hills NSW 2171, Australia",,Leopold Place,Cecil Hills,2171,-33.8885925,150.851595,62.0
+466,Marrickville West Public School,"Beauchamp St, Marrickville NSW 2204, Australia",,Beauchamp Street,Marrickville,2204,-33.9142089,151.144919,61.0
+467,Casula Public School,"4 De Meyrick Ave, Casula NSW 2170, Australia",4,De Meyrick Avenue,Casula,2170,-33.94347809999999,150.909039,61.0
+468,Cronulla South Public School,"121 Ewos Parade, Cronulla NSW 2230, Australia",121,Ewos Parade,Cronulla,2230,-34.0660957,151.1541942,61.0
+469,Bundeena Public School,"48R Scarborough St, Bundeena NSW 2230, Australia",48R,Scarborough Street,Bundeena,2230,-34.08657739999999,151.1526382,61.0
+470,Tharawal Public School,"Tharawal Public School, 70 Gerald Rd, Illawong NSW 2234, Australia",70,Gerald Road,Illawong,2234,-34.0029526,151.0266679,61.0
+471,Parramatta West Public School,"141 Railway St, Parramatta NSW 2150, Australia",141,Railway Street,Parramatta,2150,-33.8244409,150.9914061,61.0
+472,Pendle Hill Public School,"27/29 Pendle Way, Wentworthville NSW 2145, Australia",29,Pendle Way,Wentworthville,2145,-33.8102806,150.9539846,61.0
+473,Galston Public School,"Cnr Arcadia Rd and School Rd, Galston NSW 2159, Australia",,,Galston,2159,-33.6476188,151.0451829,61.0
+474,Cronulla Public School,"18/24 Burraneer Bay Rd, Cronulla NSW 2230, Australia",24,Burraneer Bay Road,Cronulla,2230,-34.05353220000001,151.1473923,60.0
+475,Chifley Public School,"Mitchell St, Malabar NSW 2036, Australia",,Mitchell Street,Malabar,2036,-33.9661135,151.2423281,60.0
+476,Panania North Public School,"202-204 Bransgrove Rd, Panania NSW 2213, Australia",202-204,Bransgrove Road,Panania,2213,-33.9457692,150.9991552,59.0
+477,Birchgrove Public School,"Birchgrove Rd, Birchgrove NSW 2041, Australia",,Birchgrove Road,Birchgrove,2041,-33.8533571,151.1772536,59.0
+478,Narwee Public School,"61-65 Broadarrow Rd, Narwee NSW 2209, Australia",61-65,Broadarrow Road,Narwee,2209,-33.948195,151.068717,57.9999999999999
+479,Chipping Norton Public School,"4 Central Ave, Chipping Norton NSW 2170, Australia",4,Central Avenue,Chipping Norton,2170,-33.90894049999999,150.9608926,57.9999999999999
+480,Beverly Hills North Public School,"1-3 Shorter Ave, Beverly Hills NSW 2209, Australia",1-3,Shorter Avenue,Beverly Hills,2209,-33.9410285,151.0745649,57.9999999999999
+481,Bankstown North Public School,"322 Hume Hwy, Bankstown NSW 2200, Australia",322,Hume Highway,Bankstown,2200,-33.9050382,151.038242,56.9999999999999
+482,Hilltop Road Public School,"81 Hilltop Rd, Merrylands NSW 2160, Australia",81,Hilltop Road,Merrylands,2160,-33.826257,150.9730812,56.9999999999999
+483,Mount Pritchard Public School,"104 Meadows Rd, Mount Pritchard NSW 2170, Australia",104,Meadows Road,Mount Pritchard,2170,-33.900196,150.8989239,56.9999999999999
+484,Smithfield Public School,"20 O'Connell St, Smithfield NSW 2164, Australia",20,O'Connell Street,Smithfield,2164,-33.8535863,150.9340583,56.9999999999999
+485,Tower Street Public School,"74 Tower St, Panania NSW 2213, Australia",74,Tower Street,Panania,2213,-33.95627129999999,151.0073086,56.9999999999999
+486,Lansvale Public School,"37-45 Chancery St, Canley Vale NSW 2166, Australia",37-45,Chancery Street,Canley Vale,2166,-33.89165889999999,150.9535235,56.0
+487,Dee Why Public School,"Regent St, Dee Why NSW 2099, Australia",,Regent Street,Dee Why,2099,-33.74823780000001,151.2861926,56.0
+488,Bankstown West Public School,"William St, Bankstown NSW 2200, Australia",,William Street,Bankstown,2200,-33.91592409999999,151.0190317,56.0
+489,Engadine West Public School,"4 Buckle Ave, Engadine NSW 2233, Australia",4,Buckle Avenue,Engadine,2233,-34.0589294,151.0016632,56.0
+490,Shelley Public School,"21 Hadrian Ave, Blacktown NSW 2148, Australia",21,Hadrian Avenue,Blacktown,2148,-33.7891291,150.9177789,55.0
+491,Jannali East Public School,"500 Box Rd, Jannali NSW 2226, Australia",500,Box Road,Jannali,2226,-34.0174693,151.0722358,55.0
+492,Greenway Park Public School,"Wyattville Dr, Carnes Hill NSW 2171, Australia",,Wyattville Drive,Carnes Hill,2171,-33.9382397,150.8375806,55.0
+493,Kirrawee Public School,"146-156 Bath Rd, Kirrawee NSW 2232, Australia",146-156,Bath Road,Kirrawee,2232,-34.033404,151.0766888,55.0
+494,Arncliffe Public School,"168 Princes Hwy, Arncliffe NSW 2205, Australia",168,Princes Highway,Arncliffe,2205,-33.9407159,151.1473046,55.0
+495,King Park Public School,"31 Humphries Rd, Wakeley NSW 2176, Australia",31,Humphries Road,Wakeley,2176,-33.8791963,150.9112663,55.0
+496,Glenwood Public School,"Corner Harrow &, 84 Belmont Rd, Glenfield NSW 2167, Australia",84,Belmont Road,Glenfield,2167,-33.9751663,150.9023895,54.0
+497,Ringrose Public School,"Ringrose Ave, Greystanes NSW 2145, Australia",,Ringrose Avenue,Greystanes,2145,-33.8200758,150.9594061,54.0
+498,Marayong South Public School,"Woodcroft NSW 2148, Australia",,,Woodcroft,2148,-33.760693,150.886169,54.0
+499,Miranda Public School,"3 Sylva Ave, Miranda NSW 2228, Australia",3,Sylva Avenue,Miranda,2228,-34.0345502,151.0973891,53.0
+500,Croydon Park Public School,"81-113 Georges River Road, 81-113 Georges River Rd, Croydon Park NSW 2133, Australia",81-113,Georges River Road,Croydon Park,2133,-33.89476570000001,151.108653,52.0
+501,William Stimson Public School,"36-54 Lily St, Wetherill Park NSW 2164, Australia",36-54,Lily Street,Wetherill Park,2164,-33.85403099999999,150.9053949,52.0
+502,Sylvania Public School,"46 Princes Hwy, Sylvania NSW 2224, Australia",46,Princes Highway,Sylvania,2224,-34.008301,151.1116487,52.0
+503,Leppington Public School,"144 Rickard Rd, Leppington NSW 2179, Australia",144,Rickard Road,Leppington,2179,-33.9592695,150.8100519,51.0
+504,Malabar Public School,"231 Franklin St, Malabar NSW 2036, Australia",231,Franklin Street,Malabar,2036,-33.9621535,151.2485111,51.0
+505,Cabramatta West Public School,"38 Broad St, Cabramatta NSW 2166, Australia",38,Broad Street,Cabramatta,2166,-33.8966587,150.9221509,51.0
+506,Fairfield West Public School,"1 Palmerston Rd, Fairfield West NSW 2165, Australia",1,Palmerston Road,Fairfield West,2165,-33.8682476,150.9246988,51.0
+507,Toongabbie Public School,"59 Fitzwilliam Rd, Old Toongabbie NSW 2146, Australia",59,Fitzwilliam Road,Old Toongabbie,2146,-33.78731479999999,150.966609,50.0
+508,Mount Kuring-gai Public School,"Mount Kuring-gai NSW 2080, Australia",,,Mount Kuring-gai,2080,-33.6577637,151.1356765,50.0
+509,Birrong Public School,"130-132 Auburn Rd, Birrong NSW 2143, Australia",130-132,Auburn Road,Birrong,2143,-33.89546,151.0209038,50.0
+510,Green Valley Public School,"173 Green Valley Rd, Green Valley NSW 2168, Australia",173,Green Valley Road,Green Valley,2168,-33.9021391,150.8687602,49.0
+511,Bankstown Public School,"61 Restwell St, Bankstown NSW 2200, Australia",61,Restwell Street,Bankstown,2200,-33.9207115,151.0341796,48.0
+512,Jannali Public School,"107/121 Sutherland Rd, Jannali NSW 2226, Australia",121,Sutherland Road,Jannali,2226,-34.0180587,151.0614624,48.0
+513,Hinchinbrook Public School,"Hinchinbrook Drive &, Keppel Cct, Hinchinbrook NSW 2168, Australia",,Keppel Circuit,Hinchinbrook,2168,-33.9130282,150.8588728,48.0
+514,Dalmeny Public School,"1612 Dalmeny Dr, Prestons NSW 2170, Australia",1612,Dalmeny Drive,Prestons,2170,-33.9468313,150.871401,48.0
+515,Middleton Grange Public School,"50 Hall Cct, Middleton Grange NSW 2171, Australia",50,Hall Circuit,Middleton Grange,2171,-33.9177887,150.8487262,48.0
+516,Matraville Soldiers Settlement Public School,"29-39 Menin Rd, Matraville NSW 2036, Australia",29-39,Menin Road,Matraville,2036,-33.9580171,151.2399783,48.0
+517,Mascot Public School,"207 King St, Mascot NSW 2020, Australia",207,King Street,Mascot,2020,-33.92923199999999,151.1930244,47.0
+518,Glebe Public School,"9-25 Derwent St, Glebe NSW 2037, Australia",9-25,Derwent Street,Glebe,2037,-33.8837589,151.1908893,46.0
+519,Kingsgrove Public School,"327 Kingsgrove Rd, Kingsgrove NSW 2208, Australia",327,Kingsgrove Road,Kingsgrove,2208,-33.9489905,151.1017543,46.0
+520,Berala Public School,"216 Harrow Rd, Berala NSW 2141, Australia",216,Harrow Road,Berala,2141,-33.8698758,151.0277606,46.0
+521,East Hills Public School,"2 Lucas Rd, East Hills NSW 2213, Australia",2,Lucas Road,East Hills,2213,-33.9586464,150.9918958,45.0
+522,Belmore South Public School,"718-734 Canterbury Rd, Belmore NSW 2192, Australia",718-734,Canterbury Road,Belmore,2192,-33.92437690000001,151.0913684,44.0
+523,Eastlakes Public School,"6 Florence Ave, Eastlakes NSW 2018, Australia",6,Florence Avenue,Eastlakes,2018,-33.927706,151.2140018,44.0
+524,Fairfield Heights Public School,"Station St, Fairfield Heights NSW 2165, Australia",,Station Street,Fairfield Heights,2165,-33.8661941,150.9404191,44.0
+525,Hammondville Public School,"53-57 Walder Rd, Hammondville NSW 2170, Australia",53-57,Walder Road,Hammondville,2170,-33.9470794,150.9545173,43.0
+526,Sherwood Grange Public School,"Bruce Street, Merrylands West NSW 2160, Australia",,,Merrylands West,2160,-33.8362612,150.9600074,43.0
+527,McCallums Hill Public School,"McCallum St, Roselands NSW 2196, Australia",,McCallum Street,Roselands,2196,-33.93471489999999,151.0850797,42.0
+528,Canley Heights Public School,"111 Cambridge St, Canley Heights NSW 2166, Australia",111,Cambridge Street,Canley Heights,2166,-33.8847021,150.9226496,42.0
+529,Lansvale East Public School,"21 Riverside Rd, Lansvale NSW 2166, Australia",21,Riverside Road,Lansvale,2166,-33.8982938,150.9646398,41.0
+530,Seven Hills West Public School,"Sackville St, Seven Hills NSW 2147, Australia",,Sackville Street,Seven Hills,2147,-33.7661982,150.921715,40.0
+531,Rydalmere Public School,"397 Victoria Rd, Rydalmere NSW 2116, Australia",397,Victoria Road,Rydalmere,2116,-33.8137806,151.0454295,38.0
+532,Yennora Public School,"6-12 Ellis Parade, Yennora NSW 2161, Australia",6-12,Ellis Parade,Yennora,2161,-33.8663675,150.9711345,38.0
+533,Carramar Public School,"29 The Horsley Dr, Villawood NSW 2163, Australia",29,The Horsley Drive,Villawood,2163,-33.8852418,150.969894,38.0
+534,Nuwarra Public School,"McKay Ave, Moorebank NSW 2170, Australia",,McKay Avenue,Moorebank,2170,-33.9332414,150.951494,38.0
+535,Cartwright Public School,"157 Willan Dr, Cartwright NSW 2168, Australia",157,Willan Drive,Cartwright,2168,-33.924603,150.8904238,38.0
+536,Bossley Park Public School,"Marconi Rd, Bossley Park NSW 2176, Australia",,Marconi Road,Bossley Park,2176,-33.8591214,150.882418,37.0
+537,Rydalmere East Public School,"41 Spurway St, Ermington NSW 2115, Australia",41,Spurway Street,Ermington,2115,-33.8165397,151.0579986,37.0
+538,Smithfield West Public School,"Wetherill St, Wetherill Park NSW 2164, Australia",,Wetherill Street,Wetherill Park,2164,-33.8575945,150.9177784,37.0
+539,Merrylands Public School,"Fowler Rd, Merrylands NSW 2160, Australia",,Fowler Road,Merrylands,2160,-33.8407956,150.9754989,34.0
+540,Athelstane Public School,"2 Athelstane Ave, Arncliffe NSW 2205, Australia",2,Athelstane Avenue,Arncliffe,2205,-33.93748530000001,151.1383517,34.0
+541,Hoxton Park Public School,"99 Pacific Palms Cct, Hoxton Park NSW 2171, Australia",99,Pacific Palms Circuit,Hoxton Park,2171,-33.9317044,150.848897,34.0
+542,Condell Park Public School,"76 Augusta St, Condell Park NSW 2200, Australia",76,Augusta Street,Condell Park,2200,-33.9256323,151.0136089,34.0
+543,Marayong Heights Public School,"4A Guerie St, Marayong NSW 2148, Australia",4A,Guerie Street,Marayong,2148,-33.7420874,150.897083,34.0
+544,Guildford West Public School,"Palmer St, Guildford West NSW 2161, Australia",,Palmer Street,Guildford West,2161,-33.8483193,150.9670486,33.0
+545,Wattawa Heights Public School,"The Avenue, Bankstown NSW 2200, Australia",,The Avenue,Bankstown,2200,-33.91510760000001,151.0121586,33.0
+546,Regents Park Public School,"1 Auburn Rd, Regents Park NSW 2143, Australia",1,Auburn Road,Regents Park,2143,-33.8854647,151.024693,32.0
+547,Hampden Park Public School,"39/75 Hampden Rd, Lakemba NSW 2195, Australia",75,Hampden Road,Lakemba,2195,-33.9152158,151.0738401,31.0
+548,Lakemba Public School,"35 Alice St S, Wiley Park NSW 2195, Australia",35,Alice Street South,Wiley Park,2195,-33.9234323,151.0708603,31.0
+549,Villawood North Public School,"95 Bligh St, Fairfield East NSW 2165, Australia",95,Bligh Street,Fairfield East,2165,-33.8777498,150.9715226,31.0
+550,Wiley Park Public School,"Denman Ave, Wiley Park NSW 2195, Australia",,Denman Avenue,Wiley Park,2195,-33.923476,151.0685351,30.0
+551,Marayong Public School,"Davis Rd, Blacktown NSW 2148, Australia",,Davis Road,Blacktown,2148,-33.7573217,150.8952856,30.0
+552,Granville Public School,"Lena St, Granville NSW 2142, Australia",,Lena Street,Granville,2142,-33.83491479999999,151.0049816,30.0
+553,Liverpool Public School,"1/10-12 Railway St, Liverpool NSW 2170, Australia",10-12,Railway Street,Liverpool,2170,-33.9241401,150.9254524,28.9999999999999
+554,Yagoona Public School,"425 Hume Hwy, Yagoona NSW 2199, Australia",425,Hume Highway,Yagoona,2199,-33.9088592,151.0271453,28.9999999999999
+555,Merrylands East Public School,"7 Myee St, Merrylands NSW 2160, Australia",7,Myee Street,Merrylands,2160,-33.8419002,150.9894048,27.0
+556,Prairievale Public School,"211 Prairie Vale Rd, Bossley Park NSW 2176, Australia",211,Prairie Vale Road,Bossley Park,2176,-33.8665662,150.8910681,26.0
+557,Austral Public School,"219 Edmondson Ave, Austral NSW 2179, Australia",219,Edmondson Avenue,Austral,2179,-33.93380729999999,150.8123598,26.0
+558,Guildford Public School,"1 Apia St, Guildford NSW 2161, Australia",1,Apia Street,Guildford,2161,-33.85555420000001,150.9815455,25.0
+559,Victoria Avenue Public School,"64 Victoria Ave, Concord West NSW 2138, Australia",64,Victoria Avenue,Concord West,2138,-33.8479286,151.0830429,25.0
+560,Ermington West Public School,"Vignes St, Ermington NSW 2115, Australia",,Vignes Street,Ermington,2115,-33.8060567,151.0584637,24.0
+561,Greenacre Public School,"105 Waterloo Rd, Greenacre NSW 2190, Australia",105,Waterloo Road,Greenacre,2190,-33.9111387,151.0572363,24.0
+562,Warwick Farm Public School,"Lawrence Hargrave Rd, Warwick Farm NSW 2170, Australia",,Lawrence Hargrave Road,Warwick Farm,2170,-33.9104156,150.9289872,23.0
+563,Edensor Park Public School,"Swan Rd, Edensor Park NSW 2176, Australia",,Swan Road,Edensor Park,2176,-33.8826787,150.8755712,22.0
+564,Bexley Public School,"330-354 Forest Rd, Sydney NSW 2207, Australia",330-354,Forest Road,Sydney,2207,-33.9476103,151.1282482,22.0
+565,Bonnyrigg Public School,"58/62 Tarlington Parade, Bonnyrigg NSW 2177, Australia",62,Tarlington Parade,Bonnyrigg,2177,-33.88844209999999,150.8888785,21.0
+566,Fairvale Public School,"83/99 Wolseley St, Fairfield NSW 2165, Australia",99,Wolseley Street,Fairfield,2165,-33.8767034,150.9407121,21.0
+567,Punchbowl Public School,"1333 Canterbury Rd, Punchbowl NSW 2196, Australia",1333,Canterbury Road,Punchbowl,2196,-33.9308492,151.0563915,21.0
+568,Auburn Public School,"Auburn Rd &, Beatrice St, Auburn NSW 2144, Australia",,Beatrice Street,Auburn,2144,-33.85455419999999,151.0317457,19.0
+569,Chullora Public School,"Chullora Public School, 90 Norfolk Rd, Greenacre NSW 2190, Australia",90,Norfolk Road,Greenacre,2190,-33.8948261,151.0604107,17.0
+570,Banksia Road Public School,"Greenacre NSW 2190, Australia",,,Greenacre,2190,-33.905895,151.050369,17.0
+571,The Meadows Public School,"2C Fuller St, Seven Hills NSW 2147, Australia",2C,Fuller Street,Seven Hills,2147,-33.7813712,150.9425554,17.0
+572,Prestons Public School,"Kurrajong &, Box Rd, Prestons NSW 2170, Australia",,Box Road,Prestons,2170,-33.9459982,150.8909367,17.0
+573,Riverwood Public School,"11 Union St, Riverwood NSW 2210, Australia",11,Union Street,Riverwood,2210,-33.9471359,151.0473632,15.0
+574,Cowan Public School,"1B Chandler Ave, Cowan NSW 2081, Australia",1B,Chandler Avenue,Cowan,2081,-33.5888526,151.1688871,15.0
+575,Granville South Public School,"Woodville Rd & Oxford St, 276 Woodville Rd, Guildford NSW 2161, Australia",276,Woodville Road,Guildford,2161,-33.848417,150.9957898,14.0
+576,Fairfield Public School,"68/82 Smart St, Fairfield NSW 2165, Australia",82,Smart Street,Fairfield,2165,-33.8673339,150.9556046,14.0
+577,Auburn West Public School,"Chiswick Rd, Auburn NSW 2144, Australia",,Chiswick Road,Auburn,2144,-33.8603711,151.0198264,13.0
+578,Liverpool West Public School,"118 Flowerdale Rd, Liverpool NSW 2170, Australia",118,Flowerdale Road,Liverpool,2170,-33.9256729,150.907169,13.0
+579,Villawood East Public School,"Lowana Street &, Gundaroo St, Villawood NSW 2163, Australia",,Gundaroo Street,Villawood,2163,-33.889705,150.9856206,10.0
+580,Busby Public School,"S Liverpool Rd, Busby NSW 2168, Australia",,South Liverpool Road,Busby,2168,-33.9116626,150.8816516,10.0
+581,Ashcroft Public School,"22 Sheriff St, Ashcroft NSW 2168, Australia",22,Sheriff Street,Ashcroft,2168,-33.9159626,150.8976849,10.0
+582,Old Guildford Public School,"646 Woodville Rd, Old Guildford NSW 2161, Australia",646,Woodville Road,Old Guildford,2161,-33.86755580000001,150.9866983,7.0
+583,Granville East Public School,"210 The Trongate, Granville NSW 2142, Australia",210,The Trongate,Granville,2142,-33.84814019999999,151.0106413,7.0
+584,Sadleir Public School,"27 Insignia St, Sadleir NSW 2168, Australia",27,Insignia Street,Sadleir,2168,-33.91690449999999,150.8908076,7.0
+585,Bass Hill Public School,"611 Hume Hwy, Bass Hill NSW 2197, Australia",611,Hume Highway,Bass Hill,2197,-33.9054413,151.0060266,7.0
+586,Chester Hill North Public School,"Wolumba St & Campbell Hill Road, Chester Hill NSW 2162, Australia",,,Chester Hill,2162,-33.8729125,151.0005407,6.0
+587,Mount Pritchard East Public School,"Townview Rd, Mount Pritchard NSW 2170, Australia",,Townview Road,Mount Pritchard,2170,-33.9049119,150.9118953,6.0
+588,Busby West Public School,"Starling St, Green Valley NSW 2168, Australia",,Starling Street,Green Valley,2168,-33.9059441,150.8735755,5.0
+589,Lurnea Public School,"Reilly &, West St, Lurnea NSW 2170, Australia",,West Street,Lurnea,2170,-33.9319075,150.8931023,4.0
+590,Lalor Park Public School,"72 Heffron Rd, Lalor Park NSW 2147, Australia",72,Heffron Road,Lalor Park,2147,-33.7605144,150.9314716,2.0
+591,Miller Public School,"3 Shropshire St, Miller NSW 2168, Australia",3,Shropshire Street,Miller,2168,-33.9216766,150.8770896,2.0
+592,Horsley Park Public School,"1759 The Horsley Dr, Horsley Park NSW 2175, Australia",1759,The Horsley Drive,Horsley Park,2175,-33.8410291,150.8525165,1.0
