@@ -36,4 +36,3 @@ streamlit run app.py
 ```
 
 The application will open in your default web browser at `http://localhost:8501`.
-By default the app won't render any maps until you hit "apply".
