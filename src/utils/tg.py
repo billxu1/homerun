@@ -13,7 +13,7 @@ def send_telegram_message(bot_message, production_mode=False, chat_group=None, b
         effective_bot_token = os.getenv('TELEGRAM_BOT_TOKEN', DEFAULT_BOT_TOKEN)
 
     chat_ids = {
-        'player-markets': '-1001668549483'
+        # 'player-markets': '-1001668549483'
     }
    
     effective_bot_chat_id = None 
